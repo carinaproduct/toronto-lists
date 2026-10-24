@@ -1,0 +1,159 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Submit Toronto Events</title>
+  <meta name="description" content="Submit your in-person Toronto tech event to Carina's weekly events list on X.">
+  <meta property="og:title" content="Submit Toronto Events to Carina's Weekly Lists">
+  <meta property="og:description" content="In-person Toronto tech events, posted every Monday on X. Submit yours here.">
+  <meta name="twitter:card" content="summary">
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+<main>
+  <div class="card">
+    <h1>Submit Toronto Events to Carina's Weekly Lists</h1>
+
+    <div class="intro">
+      <p>Please note:</p>
+      <ul>
+        <li>Events must be in-person (no virtual) and located in the Greater Toronto Area.</li>
+        <li>Events must be relevant to tech. (i.e. no birthday parties)</li>
+        <li>Event lists are posted weekly on Mondays at 2:00 pm ET and feature events happening in the current week. Please submit your events before Monday to be included in the upcoming week.</li>
+        <li>Submit one (1) event per form submission. If you have multiple events, please submit each of them individually.</li>
+      </ul>
+      <p>If you have any questions, please DM me on X at <a href="https://x.com/carinaproduct" target="_blank" rel="noopener">x.com/carinaproduct</a>. Thank you!</p>
+    </div>
+
+    <form id="event-form" action="/api/submit" method="post" novalidate>
+      <div class="field" data-field="contact">
+        <label for="contact">Your Contact Info</label>
+        <p class="help" id="contact-help">Share your email or X handle, whichever is best for me to reach out to you should I need to contact you regarding your event being featured.</p>
+        <input type="text" id="contact" name="contact" required maxlength="200" autocomplete="email" aria-describedby="contact-help contact-error">
+        <p class="error" id="contact-error" role="alert"></p>
+      </div>
+
+      <div class="field" data-field="eventDate">
+        <label for="eventDate">Date of Event</label>
+        <input type="date" id="eventDate" name="eventDate" required aria-describedby="eventDate-error">
+        <p class="error" id="eventDate-error" role="alert"></p>
+      </div>
+
+      <div class="field" data-field="eventName">
+        <label for="eventName">Event Name</label>
+        <input type="text" id="eventName" name="eventName" required maxlength="200" aria-describedby="eventName-error">
+        <p class="error" id="eventName-error" role="alert"></p>
+      </div>
+
+      <div class="field" data-field="registrationLink">
+        <label for="registrationLink">Event Registration Link</label>
+        <input type="url" id="registrationLink" name="registrationLink" required maxlength="500" placeholder="https://" inputmode="url" aria-describedby="registrationLink-error">
+        <p class="error" id="registrationLink-error" role="alert"></p>
+      </div>
+
+      <div class="field" data-field="handles">
+        <label for="handles">X/Twitter Handles</label>
+        <p class="help" id="handles-help">Please include the @(s) of the organizers of the event that I should be tagging in the thread. This is to allow potential event attendees to know the right person to reach out to for any event-related questions.<br><br>Put "n/a" if not applicable.</p>
+        <input type="text" id="handles" name="handles" required maxlength="300" aria-describedby="handles-help handles-error">
+        <p class="error" id="handles-error" role="alert"></p>
+      </div>
+
+      <div class="field" data-field="feedback">
+        <label for="feedback">Lastly, any feedback or suggestions for the weekly events list?</label>
+        <p class="help" id="feedback-help">Optional - feel free to use this space to share any improvements you'd like to see for the weekly Toronto events list. I'm all ears as to how I can make your experience better &amp; the lists more valuable for you.</p>
+        <textarea id="feedback" name="feedback" maxlength="2000" aria-describedby="feedback-help feedback-error"></textarea>
+        <p class="error" id="feedback-error" role="alert"></p>
+      </div>
+
+      <div class="hp" aria-hidden="true">
+        <label for="website">Website</label>
+        <input type="text" id="website" name="website" tabindex="-1" autocomplete="off">
+      </div>
+
+      <p class="form-error" id="form-error" role="alert"></p>
+
+      <div class="actions">
+        <button type="submit" id="submit">Submit</button>
+      </div>
+    </form>
+  </div>
+</main>
+
+<script>
+  (function () {
+    var form = document.getElementById('event-form');
+    var button = document.getElementById('submit');
+    var formError = document.getElementById('form-error');
+
+    // Earliest selectable date is today in Toronto.
+    var today = new Intl.DateTimeFormat('en-CA', {
+      timeZone: 'America/Toronto', year: 'numeric', month: '2-digit', day: '2-digit'
+    }).format(new Date());
+    document.getElementById('eventDate').min = today;
+
+    function showErrors(errors) {
+      form.querySelectorAll('.field').forEach(function (el) {
+        var name = el.getAttribute('data-field');
+        var message = errors[name] || '';
+        el.classList.toggle('invalid', !!message);
+        document.getElementById(name + '-error').textContent = message;
+      });
+      var first = form.querySelector('.field.invalid input, .field.invalid textarea');
+      if (first) first.focus();
+    }
+
+    function clientErrors(data) {
+      var errors = {};
+      if (!data.contact.trim()) errors.contact = 'Please share an email or X handle.';
+      if (!data.eventDate) errors.eventDate = 'Please pick the event date.';
+      else if (data.eventDate < today) errors.eventDate = 'This date has already passed.';
+      if (!data.eventName.trim()) errors.eventName = 'Please add the event name.';
+      if (!/^https?:\/\/\S+\.\S+/i.test(data.registrationLink.trim())) {
+        errors.registrationLink = 'Please enter a full link, starting with https://';
+      }
+      if (!data.handles.trim()) errors.handles = 'Add the organizer handles, or "n/a".';
+      return errors;
+    }
+
+    form.addEventListener('input', function (event) {
+      var field = event.target.closest('.field');
+      if (!field || !field.classList.contains('invalid')) return;
+      field.classList.remove('invalid');
+      document.getElementById(field.getAttribute('data-field') + '-error').textContent = '';
+    });
+
+    form.addEventListener('submit', function (event) {
+      event.preventDefault();
+      formError.textContent = '';
+      var data = Object.fromEntries(new FormData(form));
+      var errors = clientErrors(data);
+      showErrors(errors);
+      if (Object.keys(errors).length) return;
+
+      button.disabled = true;
+      button.textContent = 'Submitting…';
+      fetch('/api/submit', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
+        body: JSON.stringify(data)
+      })
+        .then(function (res) {
+          return res.json().catch(function () { return {}; }).then(function (body) {
+            if (res.ok) { window.location.href = '/thanks'; return; }
+            if (body.errors) showErrors(body.errors);
+            else formError.textContent = body.error || 'Something went wrong. Please try again.';
+            button.disabled = false;
+            button.textContent = 'Submit';
+          });
+        })
+        .catch(function () {
+          formError.textContent = 'Could not reach the server. Check your connection and try again.';
+          button.disabled = false;
+          button.textContent = 'Submit';
+        });
+    });
+  })();
+</script>
+</body>
+</html>
