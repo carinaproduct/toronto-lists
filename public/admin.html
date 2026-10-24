@@ -1,0 +1,183 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Weekly List Builder</title>
+  <meta name="robots" content="noindex, nofollow">
+  <link rel="stylesheet" href="/styles.css">
+  <style>
+    main { max-width: 820px; }
+    .row { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; }
+    .row input[type="password"] { flex: 1; min-width: 200px; font: inherit; font-size: 16px; padding: 10px 12px; border: 2px solid var(--border); border-radius: var(--radius); }
+    .secondary { background: #eef1f6; color: var(--text); }
+    .secondary:hover { background: #e1e6ee; }
+    button { font-size: 16px; padding: 9px 18px; }
+    .week { font-size: 20px; font-weight: 600; min-width: 210px; text-align: center; }
+    .status { color: var(--muted); margin: 16px 0; }
+    .event { border: 1px solid var(--border); border-radius: var(--radius); padding: 14px 16px; margin-bottom: 10px; display: flex; gap: 12px; }
+    .event input { margin-top: 6px; width: 18px; height: 18px; flex: none; }
+    .event .meta { color: var(--muted); font-size: 15px; word-break: break-word; }
+    .event .name { font-weight: 600; }
+    .event .feedback { background: var(--page); border-radius: 4px; padding: 6px 10px; margin-top: 8px; font-size: 15px; }
+    textarea#thread { min-height: 280px; font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 14px; }
+    h2 { font-size: 20px; margin: 32px 0 10px; }
+    [hidden] { display: none !important; }
+  </style>
+</head>
+<body>
+<main>
+  <div class="card">
+    <h1>Weekly List Builder</h1>
+
+    <form class="row" id="login">
+      <input type="password" id="token" placeholder="Admin token" autocomplete="current-password" aria-label="Admin token">
+      <button type="submit">Load</button>
+    </form>
+    <p class="error" id="login-error" role="alert"></p>
+
+    <div id="app" hidden>
+      <div class="row" style="margin-top: 24px; justify-content: center;">
+        <button type="button" class="secondary" id="prev" aria-label="Previous week">←</button>
+        <span class="week" id="week-label"></span>
+        <button type="button" class="secondary" id="next" aria-label="Next week">→</button>
+      </div>
+      <p class="status" id="status"></p>
+      <div id="events"></div>
+
+      <h2>Thread draft</h2>
+      <p class="help">Untick events to leave them out. Edit freely before posting.</p>
+      <textarea id="thread" aria-label="Thread draft"></textarea>
+      <div class="row" style="margin-top: 12px;">
+        <button type="button" id="copy">Copy</button>
+        <span class="status" id="copy-status" style="margin: 0;"></span>
+      </div>
+    </div>
+  </div>
+</main>
+
+<script>
+  (function () {
+    var TZ = 'America/Toronto';
+    var token = '';
+    var monday = startOfWeek(todayInToronto());
+    var submissions = [];
+
+    try { token = sessionStorage.getItem('adminToken') || ''; } catch (e) {}
+    document.getElementById('token').value = token;
+    if (token) load();
+
+    document.getElementById('login').addEventListener('submit', function (e) {
+      e.preventDefault();
+      token = document.getElementById('token').value.trim();
+      try { sessionStorage.setItem('adminToken', token); } catch (e) {}
+      load();
+    });
+    document.getElementById('prev').addEventListener('click', function () { monday = addDays(monday, -7); load(); });
+    document.getElementById('next').addEventListener('click', function () { monday = addDays(monday, 7); load(); });
+    document.getElementById('copy').addEventListener('click', function () {
+      var status = document.getElementById('copy-status');
+      navigator.clipboard.writeText(document.getElementById('thread').value)
+        .then(function () { status.textContent = 'Copied.'; })
+        .catch(function () { status.textContent = 'Copy failed. Select the text and copy it manually.'; });
+    });
+
+    // Dates are handled as YYYY-MM-DD strings, with arithmetic done in UTC.
+    function todayInToronto() {
+      return new Intl.DateTimeFormat('en-CA', { timeZone: TZ, year: 'numeric', month: '2-digit', day: '2-digit' }).format(new Date());
+    }
+    function toDate(iso) { return new Date(iso + 'T00:00:00Z'); }
+    function addDays(iso, n) { var d = toDate(iso); d.setUTCDate(d.getUTCDate() + n); return d.toISOString().slice(0, 10); }
+    function startOfWeek(iso) { var day = toDate(iso).getUTCDay(); return addDays(iso, -((day + 6) % 7)); }
+    function fmt(iso, opts) { return new Intl.DateTimeFormat('en-US', Object.assign({ timeZone: 'UTC' }, opts)).format(toDate(iso)); }
+
+    function weekLabel(from, to) {
+      var sameMonth = from.slice(5, 7) === to.slice(5, 7);
+      return fmt(from, { month: 'short', day: 'numeric' }) + '–' +
+        (sameMonth ? fmt(to, { day: 'numeric' }) : fmt(to, { month: 'short', day: 'numeric' }));
+    }
+
+    // "carinaproduct, @afifasiddiqua_" -> "@carinaproduct @afifasiddiqua_"
+    function formatHandles(raw) {
+      if (/^\s*n\/?a\s*$/i.test(raw)) return '';
+      return raw.split(/[\s,;&]+/)
+        .map(function (h) { return h.replace(/^@+/, '').replace(/^https?:\/\/(www\.)?(x|twitter)\.com\//i, '').replace(/\/.*$/, ''); })
+        .filter(function (h) { return /^[A-Za-z0-9_]{1,15}$/.test(h) && h.toLowerCase() !== 'and'; })
+        .map(function (h) { return '@' + h; })
+        .join(' ');
+    }
+
+    function load() {
+      var from = monday, to = addDays(monday, 6);
+      var status = document.getElementById('status');
+      document.getElementById('week-label').textContent = weekLabel(from, to);
+      status.textContent = 'Loading…';
+      fetch('/api/submissions?from=' + from + '&to=' + to, { headers: { Authorization: 'Bearer ' + token } })
+        .then(function (res) {
+          return res.json().then(function (body) {
+            if (!res.ok) throw new Error(body.error || 'Request failed.');
+            return body;
+          });
+        })
+        .then(function (body) {
+          document.getElementById('login-error').textContent = '';
+          document.getElementById('app').hidden = false;
+          submissions = body.submissions;
+          status.textContent = submissions.length
+            ? submissions.length + ' submission' + (submissions.length === 1 ? '' : 's') + ' for this week.'
+            : 'No submissions for this week yet.';
+          renderEvents();
+          renderThread();
+        })
+        .catch(function (err) {
+          document.getElementById('app').hidden = true;
+          document.getElementById('login-error').textContent = err.message;
+        });
+    }
+
+    function renderEvents() {
+      var list = document.getElementById('events');
+      list.textContent = '';
+      submissions.forEach(function (s, i) {
+        var row = document.createElement('label');
+        row.className = 'event';
+        var box = document.createElement('input');
+        box.type = 'checkbox';
+        box.checked = true;
+        box.dataset.index = i;
+        box.addEventListener('change', renderThread);
+        var body = document.createElement('div');
+        addLine(body, 'name', fmt(s.eventDate, { weekday: 'short', month: 'short', day: 'numeric' }) + ' · ' + s.eventName);
+        var link = document.createElement('a');
+        link.href = s.registrationLink; link.target = '_blank'; link.rel = 'noopener'; link.textContent = s.registrationLink;
+        var linkLine = addLine(body, 'meta', ''); linkLine.appendChild(link);
+        addLine(body, 'meta', 'Organizers: ' + s.handles + ' · Contact: ' + s.contact);
+        if (s.feedback) addLine(body, 'feedback', 'Feedback: ' + s.feedback);
+        row.appendChild(box); row.appendChild(body);
+        list.appendChild(row);
+      });
+    }
+
+    function addLine(parent, cls, text) {
+      var el = document.createElement('div');
+      el.className = cls; el.textContent = text;
+      parent.appendChild(el);
+      return el;
+    }
+
+    function renderThread() {
+      var picked = Array.prototype.map.call(document.querySelectorAll('#events input:checked'), function (box) { return submissions[box.dataset.index]; });
+      var posts = ['Toronto tech events this week (' + weekLabel(monday, addDays(monday, 6)) + ') 🧵\n\nSubmit yours for next week: ' + location.origin];
+      picked.forEach(function (s) {
+        var handles = formatHandles(s.handles);
+        posts.push(
+          fmt(s.eventDate, { weekday: 'short', month: 'short', day: 'numeric' }) + ': ' + s.eventName +
+          (handles ? '\nby ' + handles : '') + '\n' + s.registrationLink
+        );
+      });
+      document.getElementById('thread').value = posts.join('\n\n---\n\n');
+    }
+  })();
+</script>
+</body>
+</html>

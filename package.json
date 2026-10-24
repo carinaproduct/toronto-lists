@@ -1,0 +1,12 @@
+{
+  "name": "toronto-lists",
+  "private": true,
+  "type": "module",
+  "description": "Submission form for weekly Toronto tech events lists on X",
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@vercel/blob": "2.8.2"
+  }
+}
