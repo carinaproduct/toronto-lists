@@ -9,7 +9,13 @@ The Claude scheduled task finds and curates events every Monday morning (see `RE
    This updates when the Monday refresh branch is merged into `main`, so merge it before the bot runs.
 2. **Form submissions**:
    `GET https://toronto-lists-dun.vercel.app/api/submissions?from=YYYY-MM-DD&to=YYYY-MM-DD`
-   with the header `Authorization: Bearer <ADMIN_TOKEN>`. Only give the bot the token if it stores secrets privately.
+   with the header `Authorization: Bearer <BOT_TOKEN>`. The bot token only returns the public event fields (name, date, link, organizer handles), never the submitter's email or feedback. Keep `ADMIN_TOKEN` for yourself.
+
+## Setting up the bot token
+
+1. In Vercel (Settings → Environment Variables for `toronto-lists`), add `BOT_TOKEN` set to a long random value, marked Sensitive, for Production.
+2. Redeploy the latest deployment so the function picks it up.
+3. Paste the same value into the bot's private secret field. If it ever leaks, change it in Vercel and redeploy; your admin token is unaffected.
 
 ## Instructions to paste into the bot
 
@@ -20,8 +26,8 @@ Data:
 1. Curated events: GET https://raw.githubusercontent.com/carinaproduct/toronto-lists/main/events/events.json
    Fields: date (YYYY-MM-DD), time, name, venue, url, x_handles (list, no @), category, pick (true/false), why, price.
 2. Submissions: GET https://toronto-lists-dun.vercel.app/api/submissions?from=<Monday>&to=<Sunday>
-   Header: Authorization: Bearer <ADMIN_TOKEN>
-   Fields: eventDate, eventName, registrationLink, handles. Never post the contact or feedback fields; they are private.
+   Header: Authorization: Bearer <BOT_TOKEN from your secrets>
+   Fields: eventDate, eventName, registrationLink, handles. Submissions are unreviewed: skip anything that is not an in-person Toronto tech event, and drop exact repeats of curated events.
 
 Pick the events:
 - This week only, Monday to Sunday, Toronto time.
