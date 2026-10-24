@@ -1,0 +1,107 @@
+# Luma calendars checked every run (api_id  name). Add a line to watch a new calendar.
+cal-DdUEFsYsDVh7osG  
+cal-HAmPbcZZaeUtXEt  
+cal-KQCPkgCBy4QE9of  
+cal-q1GfyHDunicX2mu  
+cal-wYZCgwOcJN8kiNH  1RG Public Calendar
+cal-ZgTGvItPE3VHGiV  AAIF Community Toronto
+cal-PFxhEHf0tgCDBGl  ACVC
+cal-e0XIAm03XbJIggQ  AgeTech Connect Events
+cal-hrOnqnfV0EebpRx  AI Tacos
+cal-p1viCUyjTxDdR1A  Alianza Latina
+cal-EGketBV0F9ykq1j  Ascent Valley Community Events
+cal-l76607AsonZ1F7F  Baseten Events
+cal-C9ABVpMgllu4kZT  Blockchain North
+cal-llmeVhkHSQMnvgN  Brainfish
+cal-t7wHut5Km468b5K  Brilliant Catalyst | Events & Opportunities
+cal-jbaCDXm0z9BQdGo  Builder Hour
+cal-CmTZ1ZLCpN3EIDU  Caffeinated Innovators
+cal-iVE3ea9GHs2zSXk  Canada Crypto Week 🇨🇦
+cal-gUADv2P40s4rWOB  Careerin Tech Society Event Calendar
+cal-y0dX0Fgdba9IOXG  Centre for Social Innovation
+cal-vyfCGyCmSSZRuyH  City of Toronto
+cal-tRYxWiUbN0HHnBA  CivicTechBrampton Events
+cal-8ACK0vjqOfKpHXl  Claude Workshops
+cal-2WmtKOEm4dVxFw8  CleanAI Initiative
+cal-gmMOid1Rsqc3Hih  ClickHouse Events
+cal-63UOFcweB97l2gc  Codex Community Events
+cal-szqAtFp2IDVWsu9  COIE 2025-26 Events
+cal-o0P45X20L9fVWij  Computing Students Hub
+cal-ui6umLirHeyCatx  Data Engineer Things Toronto Meetup
+cal-FHCEJF8O47Epbu3  Ecom North
+cal-AIQJgsjMuWFK8Xb  Fintech Cadence
+cal-3aH7Cvqdyre9u3j  Founders Running Club
+cal-oCFmkUUK1a8AYfZ  FutureSight
+cal-IvQl7XKtETmsIiD  Futurework
+cal-10jMjP4TF0xgOZz  Georgian
+cal-ySOxxUsXT84noKS  Global Startups TTW Calendar
+cal-6OBwLy2WJCsBdv0  Highline Beta
+cal-cwUoVPFtuHVp86x  Horizon Angel Investors
+cal-yi89DuFp8oeOEAZ  Hustle Fund Events
+cal-9P16zdpTT3RMBxQ  IFL Toronto
+cal-NFOz1iWuVZOzOq6  Innovation Factory
+cal-nkJDCNDtZxT78xj  Itshercircle
+cal-NWLL5icCWYvDxjA  Jess
+cal-E89FqsvUqnO74JL  Kajé Women
+cal-mvNH1VHlaFtSMFx  LangChain Events
+cal-LCBqBsYxYlnyyyy  LangChain in London
+cal-liR6c5GK83GdJpa  Lighthouse Network
+cal-xoEzfjH5uzo53Ep  LocoBloco
+cal-FGHayLJ6ZAmkYJi  Makers Lounge
+cal-BGF2SBNWsJtm00p  Mantle
+cal-eFMzokEWSODtEp0  Maple Leaf Venture Club
+cal-JyxiKgDYFePUjAL  MaRS
+cal-zVeWgzCRgBQXzvT  Mindstone AI Meetup
+cal-gl037DQRq7lOnFs  MLAI
+cal-ibBch8OF5alXw3A  MUG Toronto - MongoDB User Group
+cal-1wHevfAGCq71ooP  NEXT Canada Calendar
+cal-HxGGkZhzaeykbe1  Nexus Collab Monthly Event
+cal-nWMs45GZBmXxkFv  NOMAD STARTUP & INVESTOR EVENTS
+cal-DuJjo08ewHlEq7f  Personal
+cal-t7l1LJjoua6jvDR  Personal
+cal-MzjgHkvo0XPjgya  Personal
+cal-5XFuqARWMpvm57D  Personal
+cal-WvhuHiWx5sVJmwc  Personal
+cal-1WABNC0SFATsmAj  Personal
+cal-EABTtF8YHYe12cg  Personal
+cal-mg8OD1mq44tNfV6  Personal
+cal-ss82F1Xnp2Kyuoi  Personal
+cal-PZUGsV4NUwXSXQB  Personal
+cal-mSxKEoTDxF536qm  Personal
+cal-wDMOv4gM3XfbWUG  Personal
+cal-XaO3LPsc4oejFum  phenoml events
+cal-xWZicKgREF0HL2k  PRAKTIKAI
+cal-3u6HX0t7CrEuGwi  Proptech Collective Community Events
+cal-ypDaw8TtJujfy3s  Re-defined Events Calendar
+cal-KRBmk4o7AoELQqr  Ripple Ventures
+cal-03Oy7sYPjdCKcja  Rootly
+cal-APk96LJhaYZOmid  RYSE
+cal-2pXX0dt38LEHxoj  Scalpels & Spreadsheets
+cal-NOgTSpyMEH1QW6B  Semantiks
+cal-8vnDDHZDoBGPf9u  Senior Engineering Meetups
+cal-cABFabQyR6l0NqX  Somos LIT - Toronto
+cal-iRJOAxy06J8zCJd  SpaceX Super Intelligence
+cal-wHjjlb4ltnEu7mG  SpaceXAI for Toronto, Canada
+cal-05xtxaoP3WvDcnA  StackAI
+cal-8ezCW2cSEkjRlqk  Stan Events
+cal-Wdpq5TCA3scZSZo  Startup Valley
+cal-QeOb6sL7GZczauv  Superwall Team
+cal-ZopuHimRKxPa5U0  TechTank TO
+cal-NFIKWffXs4kAUi3  TechTO
+cal-E74MDlDKBaeAwXK  The AI Collective
+cal-tbYxKlqb0PYhkEk  The AI Ladies Lounge
+cal-DKsAvNy9BUhCh7S  The AI Safety Foundation
+cal-XAqJhjoHklQg1X3  The Test Tribe Meetups
+cal-GaPqwJi5vpu5zpI  TORNOG
+cal-iSBuz7ItXKrd8Nd  Toronto Open Data
+cal-h9wzB583gCu5WMH  Toronto Ruby
+cal-jAurnsQg4heVDPe  Toronto Tech Basketball Run
+cal-MUzkL4BXmGLtj4f  TorontoStarts
+cal-q68iGp0jHkjPBs8  UofT Hatchery
+cal-j5Zzrkc37m2q7Z3  Uplift Collective
+cal-6Nl5EuB8eQBxu8d  Voxel51 Events
+cal-IN5Tj4RMnAvJrNc  Web3TO
+cal-HkwfI7SX1257oT0  WISE 2026-2027 Events Calendar
+cal-SJESWyXL5IaUbt4  Women In GTM: Speaker Series by Relay
+cal-KF8qYd7riaNFCTT  Woven Events
+cal-iH9i7VceD2ekthe  ↓↓ Double Down
