@@ -1,0 +1,3295 @@
+[
+ {
+  "key": "https://buildersundays.ca/products/toronto#2026-10-25",
+  "date": "2026-10-25",
+  "time": "12:00 PM",
+  "name": "Builder Sundays at Shopify",
+  "venue": "Shopify Toronto, 620 King St W (10th floor, enter off Waterloo Terrace)",
+  "url": "https://buildersundays.ca/products/toronto",
+  "x_handles": [
+   "Shopify"
+  ],
+  "category": "startups",
+  "pick": true,
+  "why": "12-5 PM co-working for builders at Shopify. Spots release Wednesdays at 12 PM ET for the following Sunday. Schedule: : Q4 2026 Join us the following Sundays in 2026 from 12-5 PM: October 25 November 1",
+  "price": "",
+  "sources": [
+   "buildersundays.ca"
+  ]
+ },
+ {
+  "key": "eventbrite:1996808430769",
+  "date": "2026-10-26",
+  "time": "2:30 PM",
+  "name": "Data Sciences Institute - Industry Speaker Series",
+  "venue": "Data Science Institute, University of Toronto, 700 University Avenue, #10th floor, Toronto M7A 2S4",
+  "url": "https://www.eventbrite.ca/e/data-sciences-institute-industry-speaker-series-tickets-1996808430769",
+  "x_handles": [],
+  "category": "AI",
+  "pick": false,
+  "why": "U of T DSI speaker talk (Pfizer human genetics); niche data-science audience.",
+  "price": "Free",
+  "sources": [
+   "Eventbrite"
+  ]
+ },
+ {
+  "key": "https://luma.com/cu5wfjto",
+  "date": "2026-10-26",
+  "time": "4:00 PM",
+  "name": "Fundraising in the AI Era | Founders x Funders Panel",
+  "venue": "Address shared after registration, Financial District, Toronto",
+  "url": "https://luma.com/cu5wfjto",
+  "x_handles": [
+   "withmantle"
+  ],
+  "category": "VC",
+  "pick": true,
+  "why": "Series A fundraising-in-the-AI-era panel from Mantle, sponsored by Fasken and CIBC Innovation Banking; sold out (waitlist).",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "https://luma.com/mj5bmugc",
+  "date": "2026-10-26",
+  "time": "5:30 PM",
+  "name": "Grok Bot Meetup Toronto - October",
+  "venue": "800 Bay St, Downtown Toronto, Toronto",
+  "url": "https://luma.com/mj5bmugc",
+  "x_handles": [
+   "jiaminghuang99",
+   "NeeravMakwana"
+  ],
+  "category": "AI",
+  "pick": true,
+  "why": "Monthly Grok Bot builder meetup (232 registered) with two speakers, Q&A and hands-on building.",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "https://luma.com/8nno3hmq",
+  "date": "2026-10-26",
+  "time": "6:00 PM",
+  "name": "Pitch Night & Meetup - MLVC x Rootly AI",
+  "venue": "Address shared after registration, Old Toronto, Toronto",
+  "url": "https://luma.com/8nno3hmq",
+  "x_handles": [
+   "rootlyhq"
+  ],
+  "category": "startups",
+  "pick": false,
+  "why": "Live demos and pitches with Maple Leaf Venture Club and Rootly; mostly a mixer.",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "https://luma.com/DataDrinks-MLTO-Halloween-2026",
+  "date": "2026-10-26",
+  "time": "6:00 PM",
+  "name": "Data Drinks x MLTO: Hallowe’en Pub Night",
+  "venue": "The Pilot, 22 Cumberland St, Toronto, ON M4W 1J5 (Yorkville)",
+  "url": "https://luma.com/DataDrinks-MLTO-Halloween-2026",
+  "x_handles": [],
+  "category": "AI",
+  "pick": false,
+  "why": "Casual Data Drinks x Machine Learning Toronto pub night with no talks.",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "https://luma.com/u168zhin",
+  "date": "2026-10-26",
+  "time": "6:30 PM",
+  "name": "IFL Dinner w/ Marcelo Cortes - Faire, A Canadian Unicorn",
+  "venue": "Address shared after registration, Downtown Toronto, Toronto",
+  "url": "https://luma.com/u168zhin",
+  "x_handles": [],
+  "category": "startups",
+  "pick": true,
+  "why": "25-seat dinner and talk with Faire co-founder and Chief Architect Marcelo Cortes ($79.99).",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "eventbrite:1998509391388",
+  "date": "2026-10-26",
+  "time": "8:00 AM",
+  "name": "The Tech Festival Canada 2026 | Meet, Build, Scale",
+  "venue": "The Westin Harbour Castle, Toronto, 1 Harbour Square, Toronto M5J 1A6",
+  "url": "https://www.eventbrite.ca/e/the-tech-festival-canada-2026-meet-build-scale-tickets-1998509391388",
+  "x_handles": [],
+  "category": "other-tech",
+  "pick": false,
+  "why": "Two-day frontier-tech festival (AI, quantum, cyber, robotics) from a newer organizer; pricey.",
+  "price": "$452.20–$1,203.77",
+  "sources": [
+   "Eventbrite"
+  ]
+ },
+ {
+  "key": "https://luma.com/rb0ivqi7",
+  "date": "2026-10-27",
+  "time": "5:30 PM",
+  "name": "Senior Tech Meetup #15 - What Can't AI do?",
+  "venue": "Address shared after registration, Old Toronto, Toronto",
+  "url": "https://luma.com/rb0ivqi7",
+  "x_handles": [
+   "Wisedocsai",
+   "Denyslinkov"
+  ],
+  "category": "dev",
+  "pick": true,
+  "why": "Small meetup for senior+ engineers on building AI products and teams, co-hosted by Wisedocs.",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "eventbrite:2000004173321",
+  "date": "2026-10-27",
+  "time": "5:30 PM",
+  "name": "Who Controls the Story? AI, Entertainment and the Battle for Influence - Toronto",
+  "venue": "IE Canada- Temperance Workhaus, 56 Temperance Street, 6th Floor, Toronto M5H 3V5",
+  "url": "https://www.eventbrite.ca/e/who-controls-the-story-ai-entertainment-and-the-battle-for-influence-toronto-tickets-2000004173321",
+  "x_handles": [],
+  "category": "AI",
+  "pick": true,
+  "why": "IE University masterclass on AI and who controls media narratives; directly relevant to marketing.",
+  "price": "Free",
+  "sources": [
+   "Eventbrite"
+  ]
+ },
+ {
+  "key": "https://luma.com/supercollider-toronto-community-leaderroundtable10",
+  "date": "2026-10-27",
+  "time": "6:00 PM",
+  "name": "Community Leader Roundtable #10",
+  "venue": "Industrious, 30 Adelaide St E 12th Floor, Toronto, ON M5C 2C5 (Downtown Yonge East)",
+  "url": "https://luma.com/supercollider-toronto-community-leaderroundtable10",
+  "x_handles": [
+   "xpraktikai",
+   "ziggzager"
+  ],
+  "category": "other-tech",
+  "pick": false,
+  "why": "Working dinner for Toronto tech community organizers, planning the SUPERCOLLIDER Summit.",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "https://luma.com/snshalloween",
+  "date": "2026-10-27",
+  "time": "6:00 PM",
+  "name": "Healthtech Social by Scalpels & Spreadsheets",
+  "venue": "WVRST, 609 King St W, Toronto, ON M5V 1M5 (Fashion District)",
+  "url": "https://luma.com/snshalloween",
+  "x_handles": [
+   "_vijesh"
+  ],
+  "category": "other-tech",
+  "pick": false,
+  "why": "Healthtech networking social from Scalpels & Spreadsheets.",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "eventbrite:1997454847218",
+  "date": "2026-10-27",
+  "time": "6:30 PM",
+  "name": "Entrepreneurs Connect: The AI-Powered Entrepreneur",
+  "venue": "Brampton Entrepreneur Centre, 41 George Street South, Brampton, ON L6Y 2E1",
+  "url": "https://www.eventbrite.ca/e/entrepreneurs-connect-the-ai-powered-entrepreneur-tickets-1997454847218",
+  "x_handles": [
+   "bramptonecodev"
+  ],
+  "category": "AI",
+  "pick": false,
+  "why": "Free small-business AI session from the City of Brampton entrepreneur centre.",
+  "price": "Free",
+  "sources": [
+   "Eventbrite"
+  ]
+ },
+ {
+  "key": "https://luma.com/standinner",
+  "date": "2026-10-27",
+  "time": "7:00 PM",
+  "name": "Toronto Dinner with Stan Engineers | Stan",
+  "venue": "57 Adelaide St E, Toronto, ON M5C 1K6 (Old Toronto)",
+  "url": "https://luma.com/standinner",
+  "x_handles": [
+   "jaychopra_",
+   "_kelindi",
+   "stanleybystan"
+  ],
+  "category": "dev",
+  "pick": false,
+  "why": "Small engineering dinner from Stan, with no agenda; likely recruiting-focused.",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "eventbrite:1995515141506",
+  "date": "2026-10-27",
+  "time": "8:30 AM",
+  "name": "Research Unplugged 2026",
+  "venue": "The Barrett Centre for Technology Innovation, 205 Humber College Blvd, Etobicoke M9W 5L7",
+  "url": "https://www.eventbrite.ca/e/research-unplugged-2026-tickets-1995515141506",
+  "x_handles": [
+   "humber_research"
+  ],
+  "category": "startups",
+  "pick": false,
+  "why": "Humber research showcase plus a startup-investor pitch competition.",
+  "price": "Free",
+  "sources": [
+   "Eventbrite"
+  ]
+ },
+ {
+  "key": "eventbrite:2000498726543",
+  "date": "2026-10-28",
+  "time": "12:00 PM",
+  "name": "Celebrate and Connect: RBC Rock My Business Start-up Awards Reception 2026",
+  "venue": "MaRS Discovery District, 101 College Street, Toronto M5G 0A3",
+  "url": "https://www.eventbrite.ca/e/celebrate-and-connect-rbc-rock-my-business-start-up-awards-reception-2026-tickets-2000498726543",
+  "x_handles": [
+   "futurpreneurATL"
+  ],
+  "category": "startups",
+  "pick": false,
+  "why": "Futurpreneur awards reception at MaRS; founder networking, light content.",
+  "price": "Free",
+  "sources": [
+   "Eventbrite"
+  ]
+ },
+ {
+  "key": "eventbrite:2003171232079",
+  "date": "2026-10-28",
+  "time": "1:00 PM",
+  "name": "Data Sciences Institute - Bridging the Gap Mini-Symposium",
+  "venue": "Data Sciences Institute, University of Toronto, 700 University Ave, 10th Floor, Toronto M7A 2S4",
+  "url": "https://www.eventbrite.ca/e/data-sciences-institute-bridging-the-gap-mini-symposium-tickets-2003171232079",
+  "x_handles": [],
+  "category": "AI",
+  "pick": false,
+  "why": "DSI symposium on physics-informed ML; research-heavy.",
+  "price": "Free",
+  "sources": [
+   "Eventbrite"
+  ]
+ },
+ {
+  "key": "https://luma.com/sj1tqmcf",
+  "date": "2026-10-28",
+  "time": "2:00 PM",
+  "name": "Black Innovation Summit 2026",
+  "venue": "Address shared after registration, Toronto",
+  "url": "https://luma.com/sj1tqmcf",
+  "x_handles": [
+   "dmzhq"
+  ],
+  "category": "startups",
+  "pick": true,
+  "why": "DMZ's 6th annual Black Innovation Summit pitch competition, hosted by Scotiabank; sold out.",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "eventbrite:1986836416205",
+  "date": "2026-10-28",
+  "time": "2:00 PM",
+  "name": "17th Canadian EdTech Leadership AI Summit - Presented by MindShare Learning",
+  "venue": "Innovation Complex, University of Toronto Missisauga, 1833 Inner Circle Road, Mississauga, ON L5L 1C6",
+  "url": "https://www.eventbrite.ca/e/17th-canadian-edtech-leadership-ai-summit-presented-by-mindshare-learning-tickets-1986836416205",
+  "x_handles": [
+   "mindshareworksp"
+  ],
+  "category": "AI",
+  "pick": false,
+  "why": "Annual EdTech leadership AI summit at UTM; education-sector focus.",
+  "price": "$199–$599",
+  "sources": [
+   "Eventbrite"
+  ]
+ },
+ {
+  "key": "https://www.meetup.com/aws-sbg-at-seneca-polytechnic-newnham-campus/events/316658151",
+  "date": "2026-10-28",
+  "time": "3:00 PM",
+  "name": "AWS 101 Workshop",
+  "venue": "Seneca Polytechnic Newnham Campus, 1750 Finch Ave E, North York",
+  "url": "https://www.meetup.com/aws-sbg-at-seneca-polytechnic-newnham-campus/events/316658151/",
+  "x_handles": [],
+  "category": "dev",
+  "pick": false,
+  "why": "Hands-on student-club AWS 101 workshop at Seneca Newnham (North York); beginner level.",
+  "price": "",
+  "sources": [
+   "Meetup"
+  ]
+ },
+ {
+  "key": "eventbrite:2000268134837",
+  "date": "2026-10-28",
+  "time": "4:00 PM",
+  "name": "Building Feminist Decolonial AI in Latin America",
+  "venue": "Munk School, 1 Devonshire Place, Toronto M5S 3K7",
+  "url": "https://www.eventbrite.ca/e/building-feminist-decolonial-ai-in-latin-america-tickets-2000268134837",
+  "x_handles": [],
+  "category": "AI",
+  "pick": false,
+  "why": "Munk School Hopper Lecture on feminist and decolonial AI; academic.",
+  "price": "Free",
+  "sources": [
+   "Eventbrite"
+  ]
+ },
+ {
+  "key": "https://luma.com/7zx6s2rj",
+  "date": "2026-10-28",
+  "time": "5:00 PM",
+  "name": "Happy Hour with Hyde Park Venture Partners and CIBC Innovation Banking",
+  "venue": "The Parlour, 642 King St W, Toronto, ON M5V 1M7 (Fashion District)",
+  "url": "https://luma.com/7zx6s2rj",
+  "x_handles": [],
+  "category": "VC",
+  "pick": true,
+  "why": "Annual Hyde Park Venture Partners and CIBC Innovation Banking happy hour with founders and investors (148 registered).",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "https://luma.com/cbwx6s4g",
+  "date": "2026-10-28",
+  "time": "5:30 PM",
+  "name": "The Toronto LLM Meetup Group - No More LLMs: Decision Models & Other Primitives",
+  "venue": "46 Spadina Ave. 5th floor, Toronto, ON M5V 2H8 (Old Toronto)",
+  "url": "https://luma.com/cbwx6s4g",
+  "x_handles": [
+   "Piesauce",
+   "lxjren"
+  ],
+  "category": "AI",
+  "pick": true,
+  "why": "Technical LLM meetup on decision models and non-LLM primitives (Suhas Pai, Hudson Labs).",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "https://luma.com/gtigwnk0",
+  "date": "2026-10-28",
+  "time": "5:30 PM",
+  "name": "LAHM - Finding Your Voice in Tech",
+  "venue": "336 Queen St W, Toronto, ON M5V 2A2 (Old Toronto)",
+  "url": "https://luma.com/gtigwnk0",
+  "x_handles": [],
+  "category": "other-tech",
+  "pick": false,
+  "why": "SOMOS Latinx in Tech session on presenting yourself in tech.",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "https://luma.com/ttt-17th-toronto",
+  "date": "2026-10-28",
+  "time": "6:00 PM",
+  "name": "Why We Shelved Our No-Code QA Platform and Switched to Agentic Testing | 17th In Person Toronto Meetup",
+  "venue": "910 Queen St W, Toronto, ON M6J 1G6 (Old Toronto)",
+  "url": "https://luma.com/ttt-17th-toronto",
+  "x_handles": [
+   "the_test_tribe"
+  ],
+  "category": "dev",
+  "pick": true,
+  "why": "Talk on why Treegress moved from no-code QA to agentic testing.",
+  "price": "",
+  "sources": [
+   "Luma",
+   "Meetup"
+  ]
+ },
+ {
+  "key": "https://luma.com/tqtoic9q",
+  "date": "2026-10-28",
+  "time": "6:00 PM",
+  "name": "Growth & GTM Roundtable",
+  "venue": "Address shared after registration, Financial District, Toronto",
+  "url": "https://luma.com/tqtoic9q",
+  "x_handles": [
+   "zainabiddin",
+   "GrowthPadhq"
+  ],
+  "category": "product",
+  "pick": true,
+  "why": "Curated roundtable on what is working in growth and GTM, from GrowthPad and Stripe Community.",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "https://luma.com/vca4vpwb",
+  "date": "2026-10-28",
+  "time": "6:00 PM",
+  "name": "WE BELIEVE TOUR (Toronto)",
+  "venue": "Address shared after registration, Financial District, Toronto",
+  "url": "https://luma.com/vca4vpwb",
+  "x_handles": [
+   "Caitlin89544917"
+  ],
+  "category": "startups",
+  "pick": false,
+  "why": "Gimmick pitch night ('Conspiracy Night') for the startup ecosystem.",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "https://tpl.bibliocommons.com/events/6a9b4e391c197d11325d6f21",
+  "date": "2026-10-28",
+  "time": "6:00 PM",
+  "name": "Get Things Done with AI: Build Your Own Productivity System",
+  "venue": "North York Central Library, 5120 Yonge St",
+  "url": "https://tpl.bibliocommons.com/events/6a9b4e391c197d11325d6f21",
+  "x_handles": [
+   "torontolibrary"
+  ],
+  "category": "AI",
+  "pick": false,
+  "why": "Free public AI class.",
+  "price": "",
+  "sources": [
+   "Toronto Public Library"
+  ]
+ },
+ {
+  "key": "https://luma.com/rdg9w5vc",
+  "date": "2026-10-28",
+  "time": "6:30 PM",
+  "name": "We Need to Talk About AI",
+  "venue": "Centre for Social Innovation (CSI), 192 Spadina Ave., Toronto, ON M5T 2C2 (Alexandra Park)",
+  "url": "https://luma.com/rdg9w5vc",
+  "x_handles": [],
+  "category": "AI",
+  "pick": false,
+  "why": "Open-format AI salon at CSI ($22.60).",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "https://luma.com/lsicmura",
+  "date": "2026-10-28",
+  "time": "6:30 PM",
+  "name": "Women Who Build [Edition 2.0]",
+  "venue": "MottoMotto Cafe, 300 Campbell Ave Unit 101, Toronto, ON M6P 3V6 (Junction Triangle)",
+  "url": "https://luma.com/lsicmura",
+  "x_handles": [],
+  "category": "other-tech",
+  "pick": false,
+  "why": "Meetup for early-career women in tech.",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "eventbrite:2002794748005",
+  "date": "2026-10-28",
+  "time": "6:30 PM",
+  "name": "Toronto Tech & Startup Halloween Mixer",
+  "venue": "172 Ossington Ave, Toronto M6J 2Z7",
+  "url": "https://www.eventbrite.ca/e/toronto-tech-startup-halloween-mixer-tickets-2002794748005",
+  "x_handles": [],
+  "category": "startups",
+  "pick": false,
+  "why": "Small community tech and startup Halloween mixer on Ossington.",
+  "price": "$17.55–$22.90",
+  "sources": [
+   "Eventbrite"
+  ]
+ },
+ {
+  "key": "https://www.meetup.com/techinto/events/316595327",
+  "date": "2026-10-28",
+  "time": "6:30 PM",
+  "name": "Tech & Startup Halloween Networking · Costume Contest · $20 Tickets",
+  "venue": "IDK Social Bar, 172 Ossington Ave, Ossington",
+  "url": "https://www.meetup.com/techinto/events/316595327/",
+  "x_handles": [],
+  "category": "startups",
+  "pick": false,
+  "why": "Halloween costume mixer for founders/devs/PMs; paid ticket ($15-20) sold on techinto.ca, Meetup RSVP alone isn't a ticket.",
+  "price": "",
+  "sources": [
+   "Meetup"
+  ]
+ },
+ {
+  "key": "eventbrite:1997214713973",
+  "date": "2026-10-28",
+  "time": "8:00 AM",
+  "name": "WIDECOM 2026",
+  "venue": "Toronto Metropolitan University, 350 Victoria Street, Toronto M5B 2K3",
+  "url": "https://www.eventbrite.ca/e/widecom-2026-tickets-1997214713973",
+  "x_handles": [],
+  "category": "dev",
+  "pick": false,
+  "why": "Academic IEEE-style conference on network computing and mobile systems at TMU (Oct 28-30).",
+  "price": "$377.29–$430.89",
+  "sources": [
+   "Eventbrite"
+  ]
+ },
+ {
+  "key": "eventbrite:1995512929891",
+  "date": "2026-10-28",
+  "time": "9:00 AM",
+  "name": "The Human Variable: Psychology for the AI Age",
+  "venue": "U of T: Schwartz Reisman Innovation Campus, 108 College Street, Toronto M5G 1L6",
+  "url": "https://www.eventbrite.ca/e/the-human-variable-psychology-for-the-ai-age-tickets-1995512929891",
+  "x_handles": [
+   "TorontoSRI"
+  ],
+  "category": "AI",
+  "pick": true,
+  "why": "Schwartz Reisman Institute day on AI in therapy, companionship and coaching; strong host.",
+  "price": "Free–$20",
+  "sources": [
+   "Eventbrite"
+  ]
+ },
+ {
+  "key": "https://luma.com/gfqf7h0v",
+  "date": "2026-10-29",
+  "time": "5:00 PM",
+  "name": "DET Toronto Meetup - Oct 29",
+  "venue": "Shopify Toronto office, Fashion District, Toronto",
+  "url": "https://luma.com/gfqf7h0v",
+  "x_handles": [
+   "dataengthings"
+  ],
+  "category": "dev",
+  "pick": true,
+  "why": "Data and AI engineering talks at Shopify's office, with speakers including a Shopify staff data engineer.",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "https://luma.com/9inc1f18",
+  "date": "2026-10-29",
+  "time": "5:00 PM",
+  "name": "The GTM Garage: Builders Live in Toronto",
+  "venue": "Address shared after registration, East Bayfront, Toronto",
+  "url": "https://luma.com/9inc1f18",
+  "x_handles": [
+   "SeanWhitestone",
+   "Itsyusufahmed"
+  ],
+  "category": "product",
+  "pick": true,
+  "why": "Five live demos of production GTM-engineering systems (Flinks, Ada, AXL Labs).",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "https://luma.com/build-north-demo-day",
+  "date": "2026-10-29",
+  "time": "5:30 PM",
+  "name": "Build North: Demo Day 🍁",
+  "venue": "Address shared after registration, Old Toronto, Toronto",
+  "url": "https://luma.com/build-north-demo-day",
+  "x_handles": [
+   "azin_asg"
+  ],
+  "category": "AI",
+  "pick": true,
+  "why": "Georgian-hosted demo day: top 10 teams from a Canada-wide AI build sprint, with live judging.",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "https://luma.com/2dty6xwj",
+  "date": "2026-10-29",
+  "time": "5:30 PM",
+  "name": "AI on Trial: a Live Ethics Debate",
+  "venue": "Address shared after registration, Old Toronto, Toronto",
+  "url": "https://luma.com/2dty6xwj",
+  "x_handles": [
+   "monameeishika"
+  ],
+  "category": "AI",
+  "pick": false,
+  "why": "Live AI ethics debate; sold out.",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "https://luma.com/builder-w3hq",
+  "date": "2026-10-29",
+  "time": "5:30 PM",
+  "name": "Builder Hour: Omarchy Plugins and Apps showcase",
+  "venue": "Address shared after registration, Old Toronto, Toronto",
+  "url": "https://luma.com/builder-w3hq",
+  "x_handles": [
+   "sojoodi"
+  ],
+  "category": "dev",
+  "pick": false,
+  "why": "Small showcase of Omarchy plugins; details still TBA.",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "https://luma.com/a1flgpq9",
+  "date": "2026-10-29",
+  "time": "5:30 PM",
+  "name": "October 2026 Meet-Up",
+  "venue": "Clio office, Old Toronto, Toronto",
+  "url": "https://luma.com/a1flgpq9",
+  "x_handles": [
+   "toronto_ruby",
+   "goclio"
+  ],
+  "category": "dev",
+  "pick": false,
+  "why": "Toronto Ruby meetup at Clio; topics TBD.",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "eventbrite:1997500632162",
+  "date": "2026-10-29",
+  "time": "5:30 PM",
+  "name": "MAX Cybersecurity: AI & the Future of Governance",
+  "venue": "333 Bay Street, Toronto M5H 2R2",
+  "url": "https://www.eventbrite.ca/e/max-cybersecurity-ai-the-future-of-governance-tickets-1997500632162",
+  "x_handles": [
+   "max_gala"
+  ],
+  "category": "other-tech",
+  "pick": false,
+  "why": "MAX panel on cybersecurity, AI and governance.",
+  "price": "$50–$134",
+  "sources": [
+   "Eventbrite"
+  ]
+ },
+ {
+  "key": "https://luma.com/d4i8uawf",
+  "date": "2026-10-29",
+  "time": "6:00 PM",
+  "name": "C100 Growth Kick-Off & Member Social",
+  "venue": "Address shared after registration, Fashion District, Toronto",
+  "url": "https://luma.com/d4i8uawf",
+  "x_handles": [],
+  "category": "startups",
+  "pick": true,
+  "why": "C100 introduces its 2026 Growth cohort of 13 scaling Canadian companies (82 registered).",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "https://luma.com/ffglcmtz",
+  "date": "2026-10-29",
+  "time": "6:00 PM",
+  "name": "Proof of Work",
+  "venue": "Suite 115, Little Italy, Toronto",
+  "url": "https://luma.com/ffglcmtz",
+  "x_handles": [
+   "itsjessyin",
+   "saleh_digital",
+   "steven_yuen",
+   "_gabrieloc"
+  ],
+  "category": "other-tech",
+  "pick": false,
+  "why": "Bring-an-artifact mixer for designers and builders, run by well-known local builders.",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "https://luma.com/hghpjsm5",
+  "date": "2026-10-29",
+  "time": "6:00 PM",
+  "name": "Rootly AI Executive Dinner (Toronto)",
+  "venue": "Edulis Restaurant, 169 Niagara St, Toronto, ON M5V 1C9 (West Queen West)",
+  "url": "https://luma.com/hghpjsm5",
+  "x_handles": [
+   "rootlyhq"
+  ],
+  "category": "AI",
+  "pick": false,
+  "why": "Rootly vendor dinner for tech leaders on AI-driven reliability (approval required).",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "https://luma.com/8uj811jc",
+  "date": "2026-10-29",
+  "time": "6:00 PM",
+  "name": "Side Project Social",
+  "venue": "1RG, 2567 Dundas St W, Toronto, ON M6P 1X7 (West Bend)",
+  "url": "https://luma.com/8uj811jc",
+  "x_handles": [],
+  "category": "dev",
+  "pick": false,
+  "why": "Biweekly side-project co-work at 1RG.",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "https://luma.com/i4um0mdq",
+  "date": "2026-10-29",
+  "time": "6:00 PM",
+  "name": "CivicTechBrampton 26th Meetup Brampton Fire & Emergency Services",
+  "venue": "8 Queen St E, Brampton, ON L6V 1A2",
+  "url": "https://luma.com/i4um0mdq",
+  "x_handles": [],
+  "category": "other-tech",
+  "pick": false,
+  "why": "CivicTech Brampton meetup with Brampton Fire & Emergency Services.",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "https://www.meetup.com/mississauganetug/events/316902172",
+  "date": "2026-10-29",
+  "time": "6:00 PM",
+  "name": "How I Built it: With AI",
+  "venue": "Mississauga Central Library, Event Room 2B, 301 Burnhamthorpe Rd W, Mississauga City Centre",
+  "url": "https://www.meetup.com/mississauganetug/events/316902172/",
+  "x_handles": [
+   "MississaugaNetU"
+  ],
+  "category": "dev",
+  "pick": true,
+  "why": "Practitioner walk-through of building a production .NET 10/Angular app in ~120 hours with Claude Code: a strong AI-coding case study.",
+  "price": "",
+  "sources": [
+   "Meetup"
+  ]
+ },
+ {
+  "key": "https://www.meetup.com/ai-small-business-forum-mississauga/events/317034265",
+  "date": "2026-10-29",
+  "time": "6:00 PM",
+  "name": "AI-101 for Small Business",
+  "venue": "Doxa Event Boutique, 2500 Meadowpine Blvd #4, Meadowvale, Mississauga",
+  "url": "https://www.meetup.com/ai-small-business-forum-mississauga/events/317034265/",
+  "x_handles": [],
+  "category": "AI",
+  "pick": false,
+  "why": "Intro AI-tools session for small-business owners; paid tickets on Eventbrite.",
+  "price": "",
+  "sources": [
+   "Meetup"
+  ]
+ },
+ {
+  "key": "eventbrite:1999712889082",
+  "date": "2026-10-29",
+  "time": "6:30 PM",
+  "name": "The Re-Designed Practice: Threats, Opportunities & The Future of Design",
+  "venue": "OCAD University, 100 McCaul Street, MCA 190, Toronto M5T 3K1",
+  "url": "https://www.eventbrite.ca/e/the-re-designed-practice-threats-opportunities-the-future-of-design-tickets-1999712889082",
+  "x_handles": [
+   "designmeets"
+  ],
+  "category": "product",
+  "pick": false,
+  "why": "DesignMeets panel at OCAD on the future of design practice.",
+  "price": "$27.96",
+  "sources": [
+   "Eventbrite"
+  ]
+ },
+ {
+  "key": "https://www.meetup.com/toronto-java-users-group/events/316878883",
+  "date": "2026-10-29",
+  "time": "6:30 PM",
+  "name": "Legacy Code Doesn't Have to Suck",
+  "venue": "Free Times Cafe, 320 College St, Little Italy/Kensington",
+  "url": "https://www.meetup.com/toronto-java-users-group/events/316878883/",
+  "x_handles": [
+   "torontojug"
+  ],
+  "category": "dev",
+  "pick": true,
+  "why": "Long-running Toronto JUG (4.7k members) talk on taming legacy codebases; 40 RSVPs.",
+  "price": "",
+  "sources": [
+   "Meetup"
+  ]
+ },
+ {
+  "key": "https://luma.com/0qzsvwty",
+  "date": "2026-10-29",
+  "time": "7:00 PM",
+  "name": "Startup Pitch & Networking in Toronto",
+  "venue": "Alternity, 333 Bloor St W, Toronto, ON M5S 1W7 (Huron Sussex)",
+  "url": "https://luma.com/0qzsvwty",
+  "x_handles": [],
+  "category": "startups",
+  "pick": false,
+  "why": "Paid Startup Valley pitch and networking night.",
+  "price": "",
+  "sources": [
+   "Luma",
+   "Meetup"
+  ]
+ },
+ {
+  "key": "https://luma.com/sw-toronto-hh",
+  "date": "2026-10-29",
+  "time": "7:30 PM",
+  "name": "App Happy Hour · Toronto",
+  "venue": "Address shared after registration, Toronto",
+  "url": "https://luma.com/sw-toronto-hh",
+  "x_handles": [
+   "superwall"
+  ],
+  "category": "product",
+  "pick": true,
+  "why": "About 25 founders and growth leads from subscription apps, hosted by Superwall.",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "https://www.meetup.com/the-bitcoin-bay/events/313246741",
+  "date": "2026-10-29",
+  "time": "7:30 PM",
+  "name": "Bitcoin Bay Sauga Meetup",
+  "venue": "Chuck's Roadhouse (Westdale Mall), 1151 Dundas St W, Mississauga",
+  "url": "https://www.meetup.com/the-bitcoin-bay/events/313246741/",
+  "x_handles": [
+   "TheBitcoinBay"
+  ],
+  "category": "other-tech",
+  "pick": false,
+  "why": "Casual monthly Bitcoin/crypto community meetup at a restaurant (also Nov 26).",
+  "price": "",
+  "sources": [
+   "Meetup"
+  ]
+ },
+ {
+  "key": "eventbrite:1820618361529",
+  "date": "2026-10-29",
+  "time": "8:30 AM",
+  "name": "Ethical AI for Marketers",
+  "venue": "St. Paul's Bloor Street, 227 Bloor Street East, Toronto M4W 1C8",
+  "url": "https://www.eventbrite.ca/e/ethical-ai-for-marketers-tickets-1820618361529",
+  "x_handles": [],
+  "category": "AI",
+  "pick": true,
+  "why": "Full-day RMA summit for marketers on using AI responsibly; on-target for a marketing lead.",
+  "price": "$195",
+  "sources": [
+   "Eventbrite"
+  ]
+ },
+ {
+  "key": "eventbrite:1995176894801",
+  "date": "2026-10-29",
+  "time": "9:00 AM",
+  "name": "AI Engineering Summit | Toronto | 2026",
+  "venue": "Hyatt Regency Toronto, 370 King Street West, Toronto M5V 1J9",
+  "url": "https://www.eventbrite.ca/e/ai-engineering-summit-toronto-2026-tickets-1995176894801",
+  "x_handles": [],
+  "category": "AI",
+  "pick": true,
+  "why": "Free one-day summit on building and scaling AI systems in production; good engineering-leader crowd.",
+  "price": "Free",
+  "sources": [
+   "Eventbrite"
+  ]
+ },
+ {
+  "key": "https://luma.com/tueq2vmr",
+  "date": "2026-10-29",
+  "time": "9:30 AM",
+  "name": "Antler Canada - New Office Cowork Launch",
+  "venue": "Address shared after registration, Old Toronto, Toronto",
+  "url": "https://luma.com/tueq2vmr",
+  "x_handles": [
+   "antlercanada"
+  ],
+  "category": "startups",
+  "pick": false,
+  "why": "Antler Canada opens its new office for founder co-working.",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "eventbrite:1996180773429",
+  "date": "2026-10-30",
+  "time": "10:00 AM",
+  "name": "Magnifica Humanitas: Choosing Humanity in the AI Revolution",
+  "venue": "Father Madden Hall, St Michael's College, 100 Saint Joseph Street, Toronto M5S 2C4",
+  "url": "https://www.eventbrite.ca/e/magnifica-humanitas-choosing-humanity-in-the-ai-revolution-tickets-1996180773429",
+  "x_handles": [],
+  "category": "AI",
+  "pick": false,
+  "why": "St. Mike's symposium on the Vatican AI encyclical; ethics, not industry.",
+  "price": "Free",
+  "sources": [
+   "Eventbrite"
+  ]
+ },
+ {
+  "key": "eventbrite:2001113425123",
+  "date": "2026-10-30",
+  "time": "1:00 PM",
+  "name": "OMNI PULSE TECH 2026: Technology, Industry & Opportunity",
+  "venue": "Barrett Centre For Technology Innovation, Humber North Campus, Etobicoke M9W 5L7",
+  "url": "https://www.eventbrite.ca/e/omni-pulse-tech-2026-technology-industry-opportunity-tickets-2001113425123",
+  "x_handles": [],
+  "category": "other-tech",
+  "pick": false,
+  "why": "Humber ICT student/employer tech day; career-fair format.",
+  "price": "Free",
+  "sources": [
+   "Eventbrite"
+  ]
+ },
+ {
+  "key": "https://luma.com/ai-image",
+  "date": "2026-10-30",
+  "time": "6:00 PM",
+  "name": "Stripe Community x Ecom North: AI Images in Ecommerce @ Ideogram",
+  "venue": "Ideogram, Old Toronto, Toronto",
+  "url": "https://luma.com/ai-image",
+  "x_handles": [
+   "AICollectiveCo"
+  ],
+  "category": "AI",
+  "pick": true,
+  "why": "AI Collective, Stripe Community and Ecom North session on AI images in ecommerce, at Ideogram.",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "eventbrite:2003066969226",
+  "date": "2026-10-31",
+  "time": "12:00 PM",
+  "name": "Brunch, Build & Connect: Women Founders Meetup in Toronto",
+  "venue": "The Dialog Cafe, 106 Mutual Street, #Unit 8, Toronto M5B 2R7",
+  "url": "https://www.eventbrite.ca/e/brunch-build-connect-women-founders-meetup-in-toronto-tickets-2003066969226",
+  "x_handles": [],
+  "category": "startups",
+  "pick": false,
+  "why": "Small women-founders brunch meetup.",
+  "price": "$6.66",
+  "sources": [
+   "Eventbrite"
+  ]
+ },
+ {
+  "key": "https://www.meetup.com/toronto-tech-stack-exchange/events/316937367",
+  "date": "2026-10-31",
+  "time": "1:00 PM",
+  "name": "Dupont Morning Code",
+  "venue": "Creeds Coffee Bar, 450 Dupont St, Annex/Dupont",
+  "url": "https://www.meetup.com/toronto-tech-stack-exchange/events/316937367/",
+  "x_handles": [],
+  "category": "dev",
+  "pick": false,
+  "why": "Weekly casual co-coding session at a cafe; recurs every Saturday.",
+  "price": "",
+  "sources": [
+   "Meetup"
+  ]
+ },
+ {
+  "key": "https://luma.com/vyhm8pe4",
+  "date": "2026-10-31",
+  "time": "9:30 AM",
+  "name": "Building Our Future in AI: The Latin@ Summit - Halloween Edition",
+  "venue": "OCAD Rosalie Sharp Pavilion, 115 McCaul St, Toronto, ON M5T 1G1 (Grange Park)",
+  "url": "https://luma.com/vyhm8pe4",
+  "x_handles": [
+   "digitalnorman",
+   "citlallirios"
+  ],
+  "category": "AI",
+  "pick": false,
+  "why": "Hybrid vibe-coding hackathon for the Latin@ community; final showcase at OCAD.",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "https://www.meetup.com/founders-running-club-toronto/events/316934568",
+  "date": "2026-10-31",
+  "time": "9:30 AM",
+  "name": "FRC Toronto :: Saturday Run",
+  "venue": "65 Front St W (Union Station), Downtown",
+  "url": "https://www.meetup.com/founders-running-club-toronto/events/316934568/",
+  "x_handles": [],
+  "category": "startups",
+  "pick": false,
+  "why": "Weekly founders/investors easy run plus coffee; recurs every Saturday through Dec 5.",
+  "price": "",
+  "sources": [
+   "Meetup"
+  ]
+ },
+ {
+  "key": "https://www.meetup.com/toronto-business-startups/events/316934623",
+  "date": "2026-10-31",
+  "time": "9:30 AM",
+  "name": "The Venture Walk #024 (High Park)",
+  "venue": "Hannah's Cafe and Bakery, 1822 Bloor St W, High Park",
+  "url": "https://www.meetup.com/toronto-business-startups/events/316934623/",
+  "x_handles": [],
+  "category": "startups",
+  "pick": false,
+  "why": "Curated founder/operator/investor walk; Luma registration; recurs weekly on Saturdays.",
+  "price": "",
+  "sources": [
+   "Meetup"
+  ]
+ },
+ {
+  "key": "https://luma.com/sa9sc2kw",
+  "date": "2026-11-01",
+  "time": "11:00 AM",
+  "name": "Pixels & Coffee: Toronto Digital Product Design Meetup",
+  "venue": "NEO COFFEE BAR KING X SPADINA, 61 Spadina Ave., Toronto, ON M5V 0T9 (Fashion District)",
+  "url": "https://luma.com/sa9sc2kw",
+  "x_handles": [],
+  "category": "product",
+  "pick": false,
+  "why": "Casual coffee meetup for product designers, run by an Adobe senior designer; sold out.",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "https://www.meetup.com/deployed-ai-downtown-toronto/events/317021165",
+  "date": "2026-11-01",
+  "time": "11:00 AM",
+  "name": "generative ai art jam",
+  "venue": "Dialog Cafe, 106 Mutual St Unit 8, Garden District",
+  "url": "https://www.meetup.com/deployed-ai-downtown-toronto/events/317021165/",
+  "x_handles": [],
+  "category": "AI",
+  "pick": false,
+  "why": "Small casual AI-art jam (biweekly: also Nov 15, Nov 29).",
+  "price": "",
+  "sources": [
+   "Meetup"
+  ]
+ },
+ {
+  "key": "https://www.meetup.com/greater-toronto-travel-and-social-club/events/316953139",
+  "date": "2026-11-01",
+  "time": "4:45 PM",
+  "name": "Toronto AI Social Walk | Founders Builders & Business Owners",
+  "venue": "88 Queens Quay W, Harbourfront",
+  "url": "https://www.meetup.com/greater-toronto-travel-and-social-club/events/316953139/",
+  "x_handles": [],
+  "category": "AI",
+  "pick": false,
+  "why": "Social walk for founders talking about how they use AI; recurs every Sunday through Dec 6.",
+  "price": "",
+  "sources": [
+   "Meetup"
+  ]
+ },
+ {
+  "key": "https://luma.com/irn5abpa",
+  "date": "2026-11-01",
+  "time": "9:00 AM",
+  "name": "LarpHacks",
+  "venue": "Address shared after registration, University, Toronto",
+  "url": "https://luma.com/irn5abpa",
+  "x_handles": [
+   "inslavawetrus_",
+   "Alexoits648"
+  ],
+  "category": "dev",
+  "pick": false,
+  "why": "Satirical one-day hackathon (173 registered).",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "https://buildersundays.ca/products/toronto#2026-11-01",
+  "date": "2026-11-01",
+  "time": "12:00 PM",
+  "name": "Builder Sundays at Shopify",
+  "venue": "Shopify Toronto, 620 King St W (10th floor, enter off Waterloo Terrace)",
+  "url": "https://buildersundays.ca/products/toronto",
+  "x_handles": [
+   "Shopify"
+  ],
+  "category": "startups",
+  "pick": true,
+  "why": "12-5 PM co-working for builders at Shopify. Spots release Wednesdays at 12 PM ET for the following Sunday. Also Dec 13, then back Jan 10; off Nov 29 (BFCM).",
+  "price": "",
+  "sources": [
+   "buildersundays.ca"
+  ]
+ },
+ {
+  "key": "https://luma.com/together-toronto-november-2-2026",
+  "date": "2026-11-02",
+  "time": "4:00 PM",
+  "name": "Together Toronto & Ecosystem Showcase",
+  "venue": "U of T: Schwartz Reisman Innovation Campus, 108 College St, Toronto, ON M5G 0C6 (Discovery District)",
+  "url": "https://luma.com/together-toronto-november-2-2026",
+  "x_handles": [
+   "TechTO"
+  ],
+  "category": "startups",
+  "pick": true,
+  "why": "TechTO flagship: showcase of 35+ startups (U of T, Vector), then founder talks at 7 pm.",
+  "price": "",
+  "sources": [
+   "Luma",
+   "Meetup"
+  ]
+ },
+ {
+  "key": "eventbrite:2003309236855",
+  "date": "2026-11-02",
+  "time": "9:00 AM",
+  "name": "(NEW) Hands-On Claude AI Workshop for Talent Leaders",
+  "venue": "Achievers, 99 Atlantic Avenue, Toronto M6K 3J8",
+  "url": "https://www.eventbrite.ca/e/new-hands-on-claude-ai-workshop-for-talent-leaders-tickets-2003309236855",
+  "x_handles": [],
+  "category": "AI",
+  "pick": false,
+  "why": "Paid hands-on Claude workshop for HR and talent leaders.",
+  "price": "$84.19–$168.37",
+  "sources": [
+   "Eventbrite"
+  ]
+ },
+ {
+  "key": "eventbrite:1996233774958",
+  "date": "2026-11-03",
+  "time": "10:00 AM",
+  "name": "Femtech Canada Forum: Turning Strategy into Impact",
+  "venue": "Daniels Spectrum, 585 Dundas Street East, Toronto M5A 2B7",
+  "url": "https://www.eventbrite.ca/e/femtech-canada-forum-turning-strategy-into-impact-tickets-1996233774958",
+  "x_handles": [
+   "iF_Hamont"
+  ],
+  "category": "other-tech",
+  "pick": false,
+  "why": "Innovation Factory's Femtech Canada Forum; health-tech founders and investors.",
+  "price": "$224.87–$337.87",
+  "sources": [
+   "Eventbrite"
+  ]
+ },
+ {
+  "key": "https://luma.com/toronto-ai",
+  "date": "2026-11-03",
+  "time": "6:30 PM",
+  "name": "Executive Dinner: Leveraging AI Agents",
+  "venue": "Address shared after registration, Downtown Yonge East, Toronto",
+  "url": "https://luma.com/toronto-ai",
+  "x_handles": [
+   "stackai"
+  ],
+  "category": "AI",
+  "pick": false,
+  "why": "StackAI vendor dinner on enterprise AI agents.",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "eventbrite:1999307226735",
+  "date": "2026-11-03",
+  "time": "8:00 AM",
+  "name": "6th Annual Canadian Bitcoin Summit",
+  "venue": "Osler, Hoskin & Harcourt LLP, 100 King Street West, #6200, Toronto M5H 1H1",
+  "url": "https://www.eventbrite.ca/e/6th-annual-canadian-bitcoin-summit-tickets-1999307226735",
+  "x_handles": [
+   "Bitcoin_CBC"
+  ],
+  "category": "other-tech",
+  "pick": false,
+  "why": "Canadian Bitcoin Consortium's annual summit at Osler; crypto-specific.",
+  "price": "$156.45",
+  "sources": [
+   "Eventbrite"
+  ]
+ },
+ {
+  "key": "eventbrite:1999298205753",
+  "date": "2026-11-04",
+  "time": "12:30 PM",
+  "name": "SRI Seminar Series: Thomas Ristenpart [HYBRID EVENT]",
+  "venue": "U of T: Schwartz Reisman Innovation Campus, 108 College Street, Toronto M5G 1L6",
+  "url": "https://www.eventbrite.ca/e/sri-seminar-series-thomas-ristenpart-hybrid-event-tickets-1999298205753",
+  "x_handles": [
+   "TorontoSRI"
+  ],
+  "category": "AI",
+  "pick": false,
+  "why": "SRI seminar with Thomas Ristenpart (hybrid, in-person option).",
+  "price": "Free",
+  "sources": [
+   "Eventbrite"
+  ]
+ },
+ {
+  "key": "https://luma.com/htp51nvv",
+  "date": "2026-11-04",
+  "time": "5:15 PM",
+  "name": "LangChain Meetup: Future of AI: Owning Your Intelligence with Open-weight Models (Toronto)",
+  "venue": "Address shared after registration, Old Toronto, Toronto",
+  "url": "https://luma.com/htp51nvv",
+  "x_handles": [
+   "amadaecheverria",
+   "LangChain"
+  ],
+  "category": "AI",
+  "pick": true,
+  "why": "LangChain meetup on open-weight models, with speakers from LangChain and Layer 6/TD.",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "https://luma.com/uzi9uisj",
+  "date": "2026-11-04",
+  "time": "5:30 PM",
+  "name": "AI Motion",
+  "venue": "375 Queen St W, Toronto, ON M5V 2A5 (Queen Street West)",
+  "url": "https://luma.com/uzi9uisj",
+  "x_handles": [
+   "kevindorfer"
+  ],
+  "category": "AI",
+  "pick": false,
+  "why": "Kill-Tony-style feedback night for AI builders ($15).",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "https://luma.com/qe2c3rd4",
+  "date": "2026-11-04",
+  "time": "6:00 PM",
+  "name": "AI Game Developers Meetup #2",
+  "venue": "Address shared after registration, Downtown Toronto, Toronto",
+  "url": "https://luma.com/qe2c3rd4",
+  "x_handles": [
+   "cyborgowski"
+  ],
+  "category": "AI",
+  "pick": false,
+  "why": "Demo meetup for game developers using AI agents.",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "https://www.meetup.com/aws-ug-toronto/events/316858236",
+  "date": "2026-11-04",
+  "time": "6:00 PM",
+  "name": "AWS User Group Toronto: Building with AI — From Data Agents to Full-Stack Apps",
+  "venue": "Amazon Toronto Office (YYZ18), 18 York St, South Core",
+  "url": "https://www.meetup.com/aws-ug-toronto/events/316858236/",
+  "x_handles": [],
+  "category": "AI",
+  "pick": true,
+  "why": "Biggest RSVP count in the window (203): text-to-SQL agent workshop and AI full-stack-on-AWS session at Amazon's office, co-hosted with Toronto AI Meetup (@TorontoAIMeetup).",
+  "price": "",
+  "sources": [
+   "Meetup"
+  ]
+ },
+ {
+  "key": "https://luma.com/cleanai-summit-2026",
+  "date": "2026-11-04",
+  "time": "8:30 AM",
+  "name": "Global CleanAI Summit",
+  "venue": "MaRS Discovery District, 101 College St, Toronto, ON M5G 0A3 (Discovery District)",
+  "url": "https://luma.com/cleanai-summit-2026",
+  "x_handles": [],
+  "category": "AI",
+  "pick": true,
+  "why": "Third Global CleanAI Summit (presented by TD) on physical AI; expensive ($615.85).",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "eventbrite:1991916507896",
+  "date": "2026-11-04",
+  "time": "8:30 AM",
+  "name": "The Future of Design and Construction | 2026 Toronto Summit",
+  "venue": "MaRS Discovery District, 101 College Street, Toronto M5G 0A3",
+  "url": "https://www.eventbrite.ca/e/the-future-of-design-and-construction-2026-toronto-summit-tickets-1991916507896",
+  "x_handles": [],
+  "category": "other-tech",
+  "pick": false,
+  "why": "Building Transformations construction-tech summit at MaRS (Nov 4-5).",
+  "price": "$62.15–$2,260",
+  "sources": [
+   "Eventbrite"
+  ]
+ },
+ {
+  "key": "https://luma.com/e7rd4bse",
+  "date": "2026-11-04",
+  "time": "9:00 AM",
+  "name": "NEXT AI Open House - Toronto",
+  "venue": "NEXT Canada, 175 Bloor Street East #1800, South Tower, Toronto, ON M4W 3R8 (Church-Wellesley)",
+  "url": "https://luma.com/e7rd4bse",
+  "x_handles": [],
+  "category": "startups",
+  "pick": false,
+  "why": "Info session for NEXT Canada's NEXT AI founder program.",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "eventbrite:1994788726780",
+  "date": "2026-11-04",
+  "time": "9:00 AM",
+  "name": "Agentic Automation in Finance Summit, Toronto, Canada",
+  "venue": "Delta Hotels Toronto, 75 Lower Simcoe Street, Toronto M5J 3A6",
+  "url": "https://www.eventbrite.ca/e/agentic-automation-in-finance-summit-toronto-canada-tickets-1994788726780",
+  "x_handles": [],
+  "category": "AI",
+  "pick": true,
+  "why": "Free summit on agentic automation in Canadian finance; enterprise buyers of AI.",
+  "price": "Free",
+  "sources": [
+   "Eventbrite"
+  ]
+ },
+ {
+  "key": "eventbrite:1994797093806",
+  "date": "2026-11-04",
+  "time": "9:00 AM",
+  "name": "Instant Payments Summit",
+  "venue": "Delta Hotels Toronto, 75 Lower Simcoe Street, Toronto M5J 3A6",
+  "url": "https://www.eventbrite.ca/e/instant-payments-summit-tickets-1994797093806",
+  "x_handles": [],
+  "category": "other-tech",
+  "pick": false,
+  "why": "Payments/fintech summit (RTR, ISO 20022, open banking), co-located with the agentic finance summit.",
+  "price": "Free",
+  "sources": [
+   "Eventbrite"
+  ]
+ },
+ {
+  "key": "eventbrite:2003069900995",
+  "date": "2026-11-05",
+  "time": "10:30 AM",
+  "name": "CanCollab Symposium 2026",
+  "venue": "SIRT @ Pinewood Toronto Studios, 225 Commissioners Street, Toronto M4M 0A1",
+  "url": "https://www.eventbrite.ca/e/cancollab-symposium-2026-tickets-2003069900995",
+  "x_handles": [],
+  "category": "other-tech",
+  "pick": false,
+  "why": "Sheridan Generator symposium on creative tech and media production at Pinewood.",
+  "price": "Free–$20",
+  "sources": [
+   "Eventbrite"
+  ]
+ },
+ {
+  "key": "https://luma.com/b8838phe",
+  "date": "2026-11-05",
+  "time": "5:30 PM",
+  "name": "Beyond the Code x Relay",
+  "venue": "60 Adelaide St E, Toronto, ON M5C 3E4 (Old Toronto)",
+  "url": "https://luma.com/b8838phe",
+  "x_handles": [],
+  "category": "other-tech",
+  "pick": false,
+  "why": "ACVC career talk on building in tech, held at Relay.",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "https://luma.com/frr7hrc2",
+  "date": "2026-11-05",
+  "time": "5:30 PM",
+  "name": "Idea Market @ UofT Hatchery (Nov 5)",
+  "venue": "Address shared after registration, University of Toronto, Toronto",
+  "url": "https://luma.com/frr7hrc2",
+  "x_handles": [
+   "UofTHatchery"
+  ],
+  "category": "startups",
+  "pick": false,
+  "why": "UofT Hatchery working session for early-stage ideas and co-founders.",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "https://luma.com/te9wa9xz",
+  "date": "2026-11-05",
+  "time": "6:00 PM",
+  "name": "Open Data Jam - Transportation Data!",
+  "venue": "Metro Hall, 55 John St, Toronto, ON M5V 0C4 (Wellington Place)",
+  "url": "https://luma.com/te9wa9xz",
+  "x_handles": [
+   "Open_TO"
+  ],
+  "category": "dev",
+  "pick": false,
+  "why": "City of Toronto Open Data jam on transportation datasets (184 registered).",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "https://luma.com/2wrfvfhx",
+  "date": "2026-11-05",
+  "time": "6:00 PM",
+  "name": "AEC Workflows in the Age of AI",
+  "venue": "Autodesk Technology Centre Toronto, 661 University Ave, Toronto, ON M5G 1M1 (Discovery District)",
+  "url": "https://luma.com/2wrfvfhx",
+  "x_handles": [],
+  "category": "AI",
+  "pick": false,
+  "why": "Panel on AI in architecture, engineering and construction, at Autodesk.",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "https://luma.com/z8uek298",
+  "date": "2026-11-05",
+  "time": "6:30 PM",
+  "name": "Pitchers & Founders | From Idea to Funding",
+  "venue": "Address shared after registration, Entertainment District, Toronto",
+  "url": "https://luma.com/z8uek298",
+  "x_handles": [],
+  "category": "VC",
+  "pick": true,
+  "why": "Talk with Antler GP and Quandl co-founder Tammer Kamel on getting funded ($29.99).",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "eventbrite:1993835483604",
+  "date": "2026-11-05",
+  "time": "8:30 AM",
+  "name": "MLOps North: Building (with) Agents",
+  "venue": "RBC WaterPark Place, 88 Queens Quay West, Toronto M5J 0B6",
+  "url": "https://www.eventbrite.ca/e/mlops-north-building-with-agents-tickets-1993835483604",
+  "x_handles": [
+   "TMLS_TO"
+  ],
+  "category": "AI",
+  "pick": true,
+  "why": "TMLS two-day MLOps North on building agents; best practitioner crowd in the window (Nov 5-6).",
+  "price": "Free–$471.90",
+  "sources": [
+   "Eventbrite"
+  ]
+ },
+ {
+  "key": "https://luma.com/earu4yuz",
+  "date": "2026-11-06",
+  "time": "10:00 AM",
+  "name": "AI Builder Café: Build Your AI Product & Launch Team",
+  "venue": "901 King St W, Toronto, ON M5V 3H5 (Old Toronto)",
+  "url": "https://luma.com/earu4yuz",
+  "x_handles": [
+   "torontostarts"
+  ],
+  "category": "AI",
+  "pick": false,
+  "why": "TorontoStarts hands-on session on building AI agents for your product.",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "https://luma.com/ikad4yuv",
+  "date": "2026-11-06",
+  "time": "1:00 PM",
+  "name": "Claude SMB Workshop with LaunchAI - Scarborough",
+  "venue": "Address shared after registration, Scarborough Junction, Toronto",
+  "url": "https://luma.com/ikad4yuv",
+  "x_handles": [],
+  "category": "AI",
+  "pick": false,
+  "why": "Claude SMB workshop for small businesses in Scarborough.",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "https://luma.com/chm7heqb",
+  "date": "2026-11-07",
+  "time": "1:00 PM",
+  "name": "Mississauga Smart Home Meetup - Community Day 2026",
+  "venue": "Living Arts Centre, 4141 Living Arts Dr, Mississauga, ON L5B 4B8",
+  "url": "https://luma.com/chm7heqb",
+  "x_handles": [],
+  "category": "other-tech",
+  "pick": false,
+  "why": "Community day for smart-home hobbyists.",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "https://www.meetup.com/toronto-founders-hub/events/315547600",
+  "date": "2026-11-07",
+  "time": "3:30 PM",
+  "name": "Toronto Founders and Entrepreneurs Networking at 5 Elements Espresso Bar",
+  "venue": "5 Elements Espresso, 131 Avenue Rd, Yorkville",
+  "url": "https://www.meetup.com/toronto-founders-hub/events/315547600/",
+  "x_handles": [],
+  "category": "startups",
+  "pick": false,
+  "why": "Biweekly casual founder coffee meetup (also Nov 21, Dec 5).",
+  "price": "",
+  "sources": [
+   "Meetup"
+  ]
+ },
+ {
+  "key": "eventbrite:1994514499559",
+  "date": "2026-11-07",
+  "time": "9:00 AM",
+  "name": "MAX Innovation Summit",
+  "venue": "PWC Canada, 18 York Street, Toronto M5J 2T8",
+  "url": "https://www.eventbrite.ca/e/max-innovation-summit-tickets-1994514499559",
+  "x_handles": [
+   "max_gala"
+  ],
+  "category": "other-tech",
+  "pick": false,
+  "why": "MAX innovation summit at PwC; broad business/innovation content.",
+  "price": "$49.26–$179",
+  "sources": [
+   "Eventbrite"
+  ]
+ },
+ {
+  "key": "https://buildersundays.ca/products/toronto#2026-11-08",
+  "date": "2026-11-08",
+  "time": "12:00 PM",
+  "name": "Builder Sundays at Shopify",
+  "venue": "Shopify Toronto, 620 King St W (10th floor, enter off Waterloo Terrace)",
+  "url": "https://buildersundays.ca/products/toronto",
+  "x_handles": [
+   "Shopify"
+  ],
+  "category": "startups",
+  "pick": true,
+  "why": "12-5 PM co-working for builders at Shopify. Spots release Wednesdays at 12 PM ET for the following Sunday. Also Dec 13, then back Jan 10; off Nov 29 (BFCM).",
+  "price": "",
+  "sources": [
+   "buildersundays.ca"
+  ]
+ },
+ {
+  "key": "eventbrite:1998392214910",
+  "date": "2026-11-09",
+  "time": "12:00 PM",
+  "name": "Treacherous Waters: Navigating AI compliance",
+  "venue": "192 Spadina Avenue, Toronto M5T 2C2",
+  "url": "https://www.eventbrite.ca/e/treacherous-waters-navigating-ai-compliance-tickets-1998392214910",
+  "x_handles": [],
+  "category": "AI",
+  "pick": false,
+  "why": "Lunch session on AI compliance at CSI Spadina.",
+  "price": "$54.99",
+  "sources": [
+   "Eventbrite"
+  ]
+ },
+ {
+  "key": "eventbrite:2002301209819",
+  "date": "2026-11-09",
+  "time": "2:00 PM",
+  "name": "Femtech Forward - Fireside Chat and Investor Networking Event!",
+  "venue": "81 Bay Street, #37th floor, Toronto M5J 0E7",
+  "url": "https://www.eventbrite.ca/e/femtech-forward-fireside-chat-and-investor-networking-event-tickets-2002301209819",
+  "x_handles": [
+   "iF_Hamont"
+  ],
+  "category": "VC",
+  "pick": false,
+  "why": "Innovation Factory fireside and investor networking for women's-health startups.",
+  "price": "Free",
+  "sources": [
+   "Eventbrite"
+  ]
+ },
+ {
+  "key": "https://luma.com/063q2znn",
+  "date": "2026-11-09",
+  "time": "5:00 PM",
+  "name": "AI Tacos x Microsoft",
+  "venue": "Microsoft Canada, Dominion Centre, 222 Bay St. #1201, Toronto, ON M5K 1E7 (Financial District)",
+  "url": "https://luma.com/063q2znn",
+  "x_handles": [],
+  "category": "AI",
+  "pick": true,
+  "why": "AI Tacos at Microsoft Canada, with a Microsoft AI expert panel and community demos (124 registered).",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "https://luma.com/hintonlectures2026",
+  "date": "2026-11-09",
+  "time": "6:00 PM",
+  "name": "The Hinton Lectures™ 2026",
+  "venue": "John W. H. Bassett Theatre, 255 Front St W, Toronto, ON M5V 2W6 (Entertainment District)",
+  "url": "https://luma.com/hintonlectures2026",
+  "x_handles": [],
+  "category": "AI",
+  "pick": true,
+  "why": "AI Safety Foundation's annual lectures hosted by Geoffrey Hinton (Nov 9-11); free.",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "https://luma.com/u0n78z0v",
+  "date": "2026-11-09",
+  "time": "6:00 PM",
+  "name": "The Hard Half with Ameet Shah - 5 to 9 Society",
+  "venue": "Lyla, West Queen West, Toronto",
+  "url": "https://luma.com/u0n78z0v",
+  "x_handles": [
+   "christinesong"
+  ],
+  "category": "VC",
+  "pick": true,
+  "why": "Small fireside with Golden Ventures partner Ameet Shah from 5 to 9 Society ($150).",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "eventbrite:2003090479546",
+  "date": "2026-11-09",
+  "time": "6:30 PM",
+  "name": "NEW in Toronto: AI and Morality",
+  "venue": "CHEFS HALL, 111 Richmond Street West, Toronto M5H 2G4",
+  "url": "https://www.eventbrite.ca/e/new-in-toronto-ai-and-morality-tickets-2003090479546",
+  "x_handles": [],
+  "category": "AI",
+  "pick": false,
+  "why": "Brains and Barstools bar lecture on AI and morality; casual.",
+  "price": "$38.82",
+  "sources": [
+   "Eventbrite"
+  ]
+ },
+ {
+  "key": "https://luma.com/z75nro7d",
+  "date": "2026-11-10",
+  "time": "2:00 PM",
+  "name": "From Prototype to Protected: IP Strategy for Founders | Building Your IP Moat Before You Raise (Hybrid)",
+  "venue": "ventureLAB, 3600 Steeles Ave E, Markham, ON L3R 9Z7",
+  "url": "https://luma.com/z75nro7d",
+  "x_handles": [
+   "venturelabca"
+  ],
+  "category": "startups",
+  "pick": false,
+  "why": "ventureLAB session on IP strategy for hardware and deep-tech founders (hybrid).",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "https://luma.com/marsdd-25",
+  "date": "2026-11-10",
+  "time": "5:00 PM",
+  "name": "MaRS @ 25",
+  "venue": "Location shared on registration",
+  "url": "https://luma.com/marsdd-25",
+  "x_handles": [],
+  "category": "startups",
+  "pick": true,
+  "why": "MaRS 25th-anniversary gathering of Toronto's innovation community.",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "https://luma.com/sn68vy7c",
+  "date": "2026-11-10",
+  "time": "5:30 PM",
+  "name": "MUG Toronto NOV 2026 - Voyage AI with MongoDB",
+  "venue": "Slalom Consulting, 85 Richmond St W #500, Toronto, ON M5H 2C9 (Financial District)",
+  "url": "https://luma.com/sn68vy7c",
+  "x_handles": [
+   "mongodb"
+  ],
+  "category": "dev",
+  "pick": true,
+  "why": "MongoDB User Group on Voyage AI.",
+  "price": "",
+  "sources": [
+   "Luma",
+   "Meetup"
+  ]
+ },
+ {
+  "key": "https://luma.com/1lieulbs",
+  "date": "2026-11-10",
+  "time": "6:00 PM",
+  "name": "Mindstone Toronto November AI Meetup",
+  "venue": "St. Paul's Bloor Street, 227 Bloor St E, Toronto, ON M4W 1C8 (Church-Wellesley)",
+  "url": "https://luma.com/1lieulbs",
+  "x_handles": [
+   "MindstoneHQ"
+  ],
+  "category": "AI",
+  "pick": true,
+  "why": "Mindstone's monthly practical-AI meetup; broad audience.",
+  "price": "",
+  "sources": [
+   "Luma",
+   "Eventbrite"
+  ]
+ },
+ {
+  "key": "https://luma.com/m1z64lr9",
+  "date": "2026-11-10",
+  "time": "7:00 PM",
+  "name": "Startup Pitch Events Toronto: 5 Founders on Stage",
+  "venue": "Blood Brothers Brewing, 165 Geary Ave, Toronto, ON M6H 2B8 (Davenport)",
+  "url": "https://luma.com/m1z64lr9",
+  "x_handles": [],
+  "category": "startups",
+  "pick": false,
+  "why": "Five-founder pitch night at a brewery ($10 USD).",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "https://www.meetup.com/startup-networking-founder-ecosystem-toronto/events/316406722",
+  "date": "2026-11-10",
+  "time": "7:00 PM",
+  "name": "Founders, Investors & Talent Networking Mixer | Toronto",
+  "venue": "Blood Brothers Brewing, 165 Geary Ave, Geary/Dovercourt",
+  "url": "https://www.meetup.com/startup-networking-founder-ecosystem-toronto/events/316406722/",
+  "x_handles": [],
+  "category": "startups",
+  "pick": false,
+  "why": "Generic founders/investors/talent mixer; Eventbrite registration; repeats Nov 24.",
+  "price": "",
+  "sources": [
+   "Meetup"
+  ]
+ },
+ {
+  "key": "eventbrite:2003266355596",
+  "date": "2026-11-10",
+  "time": "8:00 AM",
+  "name": "Energy Infrastructure for Canada's Data Centres 2026",
+  "venue": "Hilton Toronto Airport Hotel & Suites, 5875 Airport Road, Mississauga, ON L4V 1N1",
+  "url": "https://www.eventbrite.ca/e/energy-infrastructure-for-canadas-data-centres-2026-tickets-2003266355596",
+  "x_handles": [],
+  "category": "AI",
+  "pick": false,
+  "why": "Conference on grid power for Canadian data centres and AI infrastructure.",
+  "price": "$322.41–$1,819.98",
+  "sources": [
+   "Eventbrite"
+  ]
+ },
+ {
+  "key": "eventbrite:1985533390821",
+  "date": "2026-11-10",
+  "time": "9:00 AM",
+  "name": "Cybersecurity Defense Ecosystem Summit",
+  "venue": "Old Mill Toronto Hotel, 9 Old Mill Road, Toronto M8X 1G5",
+  "url": "https://www.eventbrite.ca/e/cybersecurity-defense-ecosystem-summit-tickets-1985533390821",
+  "x_handles": [],
+  "category": "other-tech",
+  "pick": false,
+  "why": "ChannelNEXT cybersecurity summit for MSPs and CISOs.",
+  "price": "$174.55–$349.98",
+  "sources": [
+   "Eventbrite"
+  ]
+ },
+ {
+  "key": "eventbrite:2000812019611",
+  "date": "2026-11-11",
+  "time": "4:00 PM",
+  "name": "Normative Dimensions of Data, Algorithms and AI in Primary Care",
+  "venue": "Joint Centre for Bioethics (JCB), College Street, Toronto M5T 3M6",
+  "url": "https://www.eventbrite.ca/e/normative-dimensions-of-data-algorithms-and-ai-in-primary-care-tickets-2000812019611",
+  "x_handles": [
+   "utjcb"
+  ],
+  "category": "AI",
+  "pick": false,
+  "why": "U of T bioethics talk on data and AI in primary care.",
+  "price": "Free",
+  "sources": [
+   "Eventbrite"
+  ]
+ },
+ {
+  "key": "https://luma.com/toronto-physical-ai-workshop-and-meetup-nov-2026",
+  "date": "2026-11-11",
+  "time": "5:30 PM",
+  "name": "Toronto Physical AI Workshop and Meetup",
+  "venue": "Terrace Room, University of Toronto, 89 Chestnut St (Yonge-Bay Corridor)",
+  "url": "https://luma.com/toronto-physical-ai-workshop-and-meetup-nov-2026",
+  "x_handles": [
+   "Voxel51"
+  ],
+  "category": "AI",
+  "pick": true,
+  "why": "Hands-on physical AI workshop from Voxel51 and Nebius; bring a laptop and use a work email.",
+  "price": "",
+  "sources": [
+   "Luma",
+   "Eventbrite",
+   "Meetup"
+  ]
+ },
+ {
+  "key": "https://www.meetup.com/metro-toronto-azure-community/events/316618777",
+  "date": "2026-11-11",
+  "time": "5:30 PM",
+  "name": "November Meetup: Azure AI Coming Soon",
+  "venue": "Microsoft Canada HQ, Suite 4400, 81 Bay St, South Core",
+  "url": "https://www.meetup.com/metro-toronto-azure-community/events/316618777/",
+  "x_handles": [],
+  "category": "AI",
+  "pick": false,
+  "why": "Large Azure community night at Microsoft HQ (98 RSVPs), but no agenda posted yet.",
+  "price": "",
+  "sources": [
+   "Meetup"
+  ]
+ },
+ {
+  "key": "https://luma.com/rpg79tkb",
+  "date": "2026-11-11",
+  "time": "6:00 PM",
+  "name": "Women in AI Toronto",
+  "venue": "The Gem Studio Toronto, 486 Front St W LG03, Toronto, ON M5V 0V2 (Downtown Toronto)",
+  "url": "https://luma.com/rpg79tkb",
+  "x_handles": [],
+  "category": "AI",
+  "pick": false,
+  "why": "Hand-picked meetup of 15 women in AI, hosted by Brainfish.",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "https://www.meetup.com/creative-code-toronto/events/316976501",
+  "date": "2026-11-11",
+  "time": "6:00 PM",
+  "name": "Creative Code Toronto meetup at InterAccess",
+  "venue": "InterAccess, 32 Lisgar St, West Queen West",
+  "url": "https://www.meetup.com/creative-code-toronto/events/316976501/",
+  "x_handles": [],
+  "category": "design",
+  "pick": false,
+  "why": "Creative coders show-and-tell at InterAccess gallery.",
+  "price": "",
+  "sources": [
+   "Meetup"
+  ]
+ },
+ {
+  "key": "eventbrite:2003119404060",
+  "date": "2026-11-12",
+  "time": "10:00 AM",
+  "name": "AI Agents for Business - Toronto",
+  "venue": "95 King Street East, Toronto M5C 1G4",
+  "url": "https://www.eventbrite.ca/e/ai-agents-for-business-toronto-tickets-2003119404060",
+  "x_handles": [],
+  "category": "AI",
+  "pick": false,
+  "why": "Paid half-day on AI agents for business with live demos; unfamiliar organizer.",
+  "price": "$104.64",
+  "sources": [
+   "Eventbrite"
+  ]
+ },
+ {
+  "key": "https://luma.com/ff3jwu80",
+  "date": "2026-11-12",
+  "time": "10:30 AM",
+  "name": "York Region Automobility Showcase & QNX Hands-On Workshop",
+  "venue": "Address shared after registration, Markham",
+  "url": "https://luma.com/ff3jwu80",
+  "x_handles": [
+   "venturelabca"
+  ],
+  "category": "dev",
+  "pick": false,
+  "why": "ventureLAB and QNX automobility showcase with a hands-on QNX workshop.",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "eventbrite:1988572871991",
+  "date": "2026-11-12",
+  "time": "12:00 PM",
+  "name": "Women's Entrepreneurship Day (WEDO) Toronto Summit",
+  "venue": "350 Victoria Street, Toronto M5B 2K3",
+  "url": "https://www.eventbrite.ca/e/womens-entrepreneurship-day-wedo-toronto-summit-tickets-1988572871991",
+  "x_handles": [],
+  "category": "startups",
+  "pick": false,
+  "why": "Women's Entrepreneurship Day summit at TMU.",
+  "price": "$81.41–$268.10",
+  "sources": [
+   "Eventbrite"
+  ]
+ },
+ {
+  "key": "https://luma.com/a15bc09j",
+  "date": "2026-11-12",
+  "time": "2:00 PM",
+  "name": "Claude Code & Coffee @ Chef's Hall ☕",
+  "venue": "Chef's Hall, Financial District, Toronto",
+  "url": "https://luma.com/a15bc09j",
+  "x_handles": [
+   "withmantle"
+  ],
+  "category": "AI",
+  "pick": false,
+  "why": "Mantle afternoon co-work focused on Claude Code.",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "https://luma.com/qqnpd66z",
+  "date": "2026-11-12",
+  "time": "2:00 PM",
+  "name": "Investor Meeting - Pitch Session",
+  "venue": "25 York Street, 25 York St, Toronto, ON M5J 2V5 (South Core)",
+  "url": "https://luma.com/qqnpd66z",
+  "x_handles": [],
+  "category": "VC",
+  "pick": false,
+  "why": "Horizon Angels investor meeting with founder pitches.",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "eventbrite:2003821342577",
+  "date": "2026-11-12",
+  "time": "2:00 PM",
+  "name": "Tech Talk with Speer Technologies",
+  "venue": "Humber North Campus, E Concourse, E building, Etobicoke, ON M9W 5L7",
+  "url": "https://www.eventbrite.ca/e/tech-talk-with-speer-technologies-tickets-2003821342577",
+  "x_handles": [
+   "humbercfe"
+  ],
+  "category": "startups",
+  "pick": false,
+  "why": "Osgoode VC Clinic and Humber talk with Speer Technologies on integrating tech.",
+  "price": "Free",
+  "sources": [
+   "Eventbrite"
+  ]
+ },
+ {
+  "key": "https://luma.com/dghejhlm",
+  "date": "2026-11-12",
+  "time": "5:00 PM",
+  "name": "TORNOG Fall Meetup",
+  "venue": "Nokia Toronto Office, 100 Queens Quay E Fl 14, Toronto, ON M5E 1Y3 (South Core)",
+  "url": "https://luma.com/dghejhlm",
+  "x_handles": [],
+  "category": "dev",
+  "pick": false,
+  "why": "Toronto Network Operators Group fall meetup with lightning talks.",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "https://luma.com/pjycwly9",
+  "date": "2026-11-12",
+  "time": "5:30 PM",
+  "name": "Fintech Social Toronto",
+  "venue": "Toronto, ON",
+  "url": "https://luma.com/pjycwly9",
+  "x_handles": [],
+  "category": "other-tech",
+  "pick": false,
+  "why": "Casual fintech social.",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "https://www.meetup.com/toronto-enterprise-devops-user-group/events/316393737",
+  "date": "2026-11-12",
+  "time": "5:30 PM",
+  "name": "From Agentic Development to Automated Delivery",
+  "venue": "Microsoft Canada HQ, Suite 4400, 81 Bay St, South Core",
+  "url": "https://www.meetup.com/toronto-enterprise-devops-user-group/events/316393737/",
+  "x_handles": [],
+  "category": "dev",
+  "pick": true,
+  "why": "Demos of agentic GitHub workflows taking a bug from report to proposed fix; directly on the AI software-delivery theme.",
+  "price": "",
+  "sources": [
+   "Meetup"
+  ]
+ },
+ {
+  "key": "https://luma.com/1mz85dyw",
+  "date": "2026-11-12",
+  "time": "6:00 PM",
+  "name": "Rootly AI x Anthropic Executive Dinner (Toronto)",
+  "venue": "Don Alfonso 1890, 1 Harbour Square 38th Floor, Toronto, ON M5J 1A6 (South Core)",
+  "url": "https://luma.com/1mz85dyw",
+  "x_handles": [
+   "rootlyhq"
+  ],
+  "category": "AI",
+  "pick": true,
+  "why": "Small executive dinner from Rootly and Anthropic at Don Alfonso 1890 (approval required).",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "https://luma.com/7y6s99mo",
+  "date": "2026-11-12",
+  "time": "6:00 PM",
+  "name": "AI Tech & Startup Night — Toronto",
+  "venue": "St. Louis Bar & Grill, 595 Bay St. A09, Toronto, ON M5G 2R3 (Downtown Yonge)",
+  "url": "https://luma.com/7y6s99mo",
+  "x_handles": [],
+  "category": "startups",
+  "pick": false,
+  "why": "Nomad Global Hub pitches and networking.",
+  "price": "",
+  "sources": [
+   "Luma",
+   "Meetup"
+  ]
+ },
+ {
+  "key": "eventbrite:2003611303344",
+  "date": "2026-11-12",
+  "time": "6:00 PM",
+  "name": "The Blueprint for Operational Excellence: Processes, AI & Digital Twins",
+  "venue": "Mississauga Valley Community Centre (Program Room 3), 1275 Mississauga Valley Boulevard, Mississauga, ON L5A 3R8",
+  "url": "https://www.eventbrite.ca/e/the-blueprint-for-operational-excellence-processes-ai-digital-twins-tickets-2003611303344",
+  "x_handles": [],
+  "category": "other-tech",
+  "pick": false,
+  "why": "ABPMP talk on process architecture, AI and digital twins.",
+  "price": "$17.31",
+  "sources": [
+   "Eventbrite"
+  ]
+ },
+ {
+  "key": "https://luma.com/qqlmf5ou",
+  "date": "2026-11-12",
+  "time": "6:00 PM",
+  "name": "Women in GTM Speaker Series: Building a Strong Professional Network",
+  "venue": "Relay, 60 Adelaide St E",
+  "url": "https://luma.com/qqlmf5ou",
+  "x_handles": [
+   "relayfinancial"
+  ],
+  "category": "product",
+  "pick": true,
+  "why": "GTM-focused speaker series by Relay with WiTS; proceeds to Dress for Success.",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "eventbrite:2003661180528",
+  "date": "2026-11-12",
+  "time": "8:30 AM",
+  "name": "Cyber for Startups: Brampton",
+  "venue": "Brampton City Hall, 2 Wellington Street West, Brampton, ON L6Y 4R2",
+  "url": "https://www.eventbrite.ca/e/cyber-for-startups-brampton-tickets-2003661180528",
+  "x_handles": [],
+  "category": "startups",
+  "pick": false,
+  "why": "Rogers Cybersecure Catalyst free cyber training for startups, in Brampton.",
+  "price": "Free",
+  "sources": [
+   "Eventbrite"
+  ]
+ },
+ {
+  "key": "eventbrite:1995684176093",
+  "date": "2026-11-12",
+  "time": "9:00 AM",
+  "name": "Product-Led Summit Toronto",
+  "venue": "Marriott Downtown at CF Toronto Eaton Centre, 525 Bay Street, Toronto M5G 2L2",
+  "url": "https://www.eventbrite.ca/e/product-led-summit-toronto-tickets-1995684176093",
+  "x_handles": [],
+  "category": "product",
+  "pick": true,
+  "why": "Product-Led Alliance summit (Nov 12-13) with speakers from Air Canada, eBay, JPMorgan; core PLG/product audience.",
+  "price": "Free",
+  "sources": [
+   "Eventbrite"
+  ]
+ },
+ {
+  "key": "eventbrite:1998769621744",
+  "date": "2026-11-13",
+  "time": "5:00 PM",
+  "name": "34th RBC Canadian Women Entrepreneur Awards",
+  "venue": "The Ritz-Carlton, Toronto, 181 Wellington Street West, Toronto M5V 0C3",
+  "url": "https://www.eventbrite.ca/e/34th-rbc-canadian-women-entrepreneur-awards-tickets-1998769621744",
+  "x_handles": [],
+  "category": "startups",
+  "pick": false,
+  "why": "Women of Influence gala for the RBC Canadian Women Entrepreneur Awards; expensive.",
+  "price": "$564.99–$5,649.99",
+  "sources": [
+   "Eventbrite"
+  ]
+ },
+ {
+  "key": "https://luma.com/0dy3tnev",
+  "date": "2026-11-13",
+  "time": "5:30 PM",
+  "name": "Agentic Payments Hackathon Toronto",
+  "venue": "Highline Beta, 372 Bay St. Ste 200, Toronto, ON M5H 2W9 (Financial District)",
+  "url": "https://luma.com/0dy3tnev",
+  "x_handles": [
+   "Caitlin89544917",
+   "lightswarm"
+  ],
+  "category": "AI",
+  "pick": true,
+  "why": "Weekend hackathon at Highline Beta to build agentic payment prototypes (register on Builder Base).",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "eventbrite:1997522115419",
+  "date": "2026-11-13",
+  "time": "8:30 AM",
+  "name": "AI Community Conference - Toronto 2026",
+  "venue": "81 Bay St (CIBC Square), Toronto M5J 0E7",
+  "url": "https://www.eventbrite.ca/e/ai-community-conference-toronto-2026-tickets-1997522115419",
+  "x_handles": [
+   "NorthTorontoUG"
+  ],
+  "category": "AI",
+  "pick": true,
+  "why": "Community AI conference at CIBC Square (81 Bay) with keynotes, panels and startup showcase; cheap.",
+  "price": "$22.63–$33.28",
+  "sources": [
+   "Eventbrite",
+   "Meetup"
+  ]
+ },
+ {
+  "key": "eventbrite:2003046962385",
+  "date": "2026-11-14",
+  "time": "8:00 AM",
+  "name": "NASA Space Apps Challenge 2026 Toronto",
+  "venue": "The Bombardier Centre for Aerospace and Aviation - Downsview Campus - Centennial College, 65 Carl Hall Road, Toronto M3K 2C1",
+  "url": "https://www.eventbrite.ca/e/nasa-space-apps-challenge-2026-toronto-tickets-2003046962385",
+  "x_handles": [],
+  "category": "dev",
+  "pick": false,
+  "why": "Local NASA Space Apps hackathon at Centennial Downsview.",
+  "price": "Free",
+  "sources": [
+   "Eventbrite"
+  ]
+ },
+ {
+  "key": "eventbrite:1505821876769",
+  "date": "2026-11-14",
+  "time": "9:30 AM",
+  "name": "Founders Running Club :: Toronto",
+  "venue": "Meet at the Bull statue, 65 Front St W (Financial District), Toronto",
+  "url": "https://www.eventbrite.ca/e/founders-running-club-toronto-tickets-1505821876769",
+  "x_handles": [],
+  "category": "startups",
+  "pick": false,
+  "why": "Recurring founders/investors run club from the Bull statue.",
+  "price": "Free",
+  "sources": [
+   "Eventbrite"
+  ]
+ },
+ {
+  "key": "https://www.meetup.com/gdg-toronto/events/316810879",
+  "date": "2026-11-15",
+  "time": "9:00 AM",
+  "name": "DevFest Toronto 2026",
+  "venue": "Northeastern University Toronto Campus, 375 Queen St W, Queen West",
+  "url": "https://www.meetup.com/gdg-toronto/events/316810879/",
+  "x_handles": [
+   "GDGToronto"
+  ],
+  "category": "dev",
+  "pick": true,
+  "why": "DevFest Toronto: Toronto's biggest GDG day ('Developers and Builders in the Agentic Era'), co-hosted by multiple GDGs; paid ticket via gdg.community.dev.",
+  "price": "",
+  "sources": [
+   "Meetup"
+  ]
+ },
+ {
+  "key": "https://buildersundays.ca/products/toronto#2026-11-15",
+  "date": "2026-11-15",
+  "time": "12:00 PM",
+  "name": "Builder Sundays at Shopify",
+  "venue": "Shopify Toronto, 620 King St W (10th floor, enter off Waterloo Terrace)",
+  "url": "https://buildersundays.ca/products/toronto",
+  "x_handles": [
+   "Shopify"
+  ],
+  "category": "startups",
+  "pick": true,
+  "why": "12-5 PM co-working for builders at Shopify. Spots release Wednesdays at 12 PM ET for the following Sunday. Also Dec 13, then back Jan 10; off Nov 29 (BFCM).",
+  "price": "",
+  "sources": [
+   "buildersundays.ca"
+  ]
+ },
+ {
+  "key": "eventbrite:2001079113496",
+  "date": "2026-11-16",
+  "time": "5:00 PM",
+  "name": "Foodtech Frontier 2026: Ontario",
+  "venue": "BDC Square Toronto, 81 Bay Street, #3700, Toronto M5J 1E6",
+  "url": "https://www.eventbrite.ca/e/foodtech-frontier-2026-ontario-tickets-2001079113496",
+  "x_handles": [],
+  "category": "other-tech",
+  "pick": false,
+  "why": "CFIN Foodtech Frontier showcase of Ontario foodtech startups.",
+  "price": "$33.90",
+  "sources": [
+   "Eventbrite"
+  ]
+ },
+ {
+  "key": "eventbrite:2002402213925",
+  "date": "2026-11-16",
+  "time": "6:00 PM",
+  "name": "Ahead of the Curve: The Tech Trends Defining What's Next",
+  "venue": "Invite only; downtown Toronto (M5H), location shared with approved guests",
+  "url": "https://www.eventbrite.ca/e/ahead-of-the-curve-the-tech-trends-defining-whats-next-tickets-2002402213925",
+  "x_handles": [
+   "joinobsidi"
+  ],
+  "category": "other-tech",
+  "pick": false,
+  "why": "Invite-only OBSIDI evening with BMO leaders on AI, data and cloud trends; location shared on approval.",
+  "price": "Free",
+  "sources": [
+   "Eventbrite"
+  ]
+ },
+ {
+  "key": "eventbrite:2002402781623",
+  "date": "2026-11-16",
+  "time": "6:00 PM",
+  "name": "Build What’s Next: Technology, Talent & Innovation",
+  "venue": "Intuit Canada, 8 Spadina Avenue, #Suite 1900, Toronto M5V 0S8",
+  "url": "https://www.eventbrite.ca/e/build-whats-next-technology-talent-innovation-tickets-2002402781623",
+  "x_handles": [
+   "joinobsidi"
+  ],
+  "category": "product",
+  "pick": false,
+  "why": "OBSIDI evening with Intuit engineering and product teams at Intuit Canada.",
+  "price": "Free",
+  "sources": [
+   "Eventbrite"
+  ]
+ },
+ {
+  "key": "eventbrite:2003085159634",
+  "date": "2026-11-16",
+  "time": "6:30 PM",
+  "name": "NEW in Toronto: AI and Education: Seeing the Potential",
+  "venue": "Reid's Distillery, 32 Logan Avenue, Toronto M4M 2M9",
+  "url": "https://www.eventbrite.ca/e/new-in-toronto-ai-and-education-seeing-the-potential-tickets-2003085159634",
+  "x_handles": [],
+  "category": "AI",
+  "pick": false,
+  "why": "Brains and Barstools bar lecture on AI in education; casual.",
+  "price": "$38.82",
+  "sources": [
+   "Eventbrite"
+  ]
+ },
+ {
+  "key": "eventbrite:2003201869717",
+  "date": "2026-11-16",
+  "time": "9:00 AM",
+  "name": "Cybersecurity Essentials for Your Product: CRA, FDA 524B and IEC 62443",
+  "venue": "MaRS Centre South Tower, 100-101 College St, Room CR2, Toronto M5G 1L7",
+  "url": "https://www.eventbrite.ca/e/cybersecurity-essentials-for-your-product-cra-fda-524b-and-iec-62443-tickets-2003201869717",
+  "x_handles": [],
+  "category": "other-tech",
+  "pick": false,
+  "why": "Morning at MaRS on product cybersecurity regulations (EU CRA, FDA 524B, IEC 62443).",
+  "price": "$54.58",
+  "sources": [
+   "Eventbrite"
+  ]
+ },
+ {
+  "key": "eventbrite:2000213123296",
+  "date": "2026-11-17",
+  "time": "10:00 AM",
+  "name": "OHDSI Canada Symposium 2026",
+  "venue": "U of T: Schwartz Reisman Innovation Campus, 108 College Street, Toronto M5G 0C6",
+  "url": "https://www.eventbrite.ca/e/ohdsi-canada-symposium-2026-tickets-2000213123296",
+  "x_handles": [],
+  "category": "other-tech",
+  "pick": false,
+  "why": "OHDSI Canada health-data symposium (Nov 17-18).",
+  "price": "$11.30–$169.50",
+  "sources": [
+   "Eventbrite"
+  ]
+ },
+ {
+  "key": "https://luma.com/ri6blb5l",
+  "date": "2026-11-17",
+  "time": "5:30 PM",
+  "name": "Tech & Tax: Fuelling Canadian Innovation",
+  "venue": "Address shared after registration, Downtown Yonge, Toronto",
+  "url": "https://luma.com/ri6blb5l",
+  "x_handles": [
+   "dmzhq"
+  ],
+  "category": "VC",
+  "pick": false,
+  "why": "DMZ and WEALTH panel on tax and Canadian venture funding.",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "eventbrite:2002404643191",
+  "date": "2026-11-17",
+  "time": "6:00 PM",
+  "name": "Building the Agentic Future: AI, Automation & What Comes Next",
+  "venue": "Invite only; downtown Toronto (M5H), location shared with approved guests",
+  "url": "https://www.eventbrite.ca/e/building-the-agentic-future-ai-automation-what-comes-next-tickets-2002404643191",
+  "x_handles": [
+   "joinobsidi"
+  ],
+  "category": "AI",
+  "pick": true,
+  "why": "Invite-only OBSIDI evening with Google on agentic AI and the future of software engineering; on-theme for 8090.",
+  "price": "Free",
+  "sources": [
+   "Eventbrite"
+  ]
+ },
+ {
+  "key": "https://luma.com/t1a9nzg6",
+  "date": "2026-11-17",
+  "time": "6:15 PM",
+  "name": "Woven Black in AI Dinner",
+  "venue": "Address shared after registration, Palmerston - Little Italy, Toronto",
+  "url": "https://luma.com/t1a9nzg6",
+  "x_handles": [],
+  "category": "AI",
+  "pick": false,
+  "why": "Woven dinner for Black professionals in data and AI ($310.75).",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "https://www.meetup.com/sddtoronto/events/315727902",
+  "date": "2026-11-17",
+  "time": "6:30 PM",
+  "name": "Service Design Connect",
+  "venue": "Duke of York, 39 Prince Arthur Ave, Annex/Yorkville",
+  "url": "https://www.meetup.com/sddtoronto/events/315727902/",
+  "x_handles": [],
+  "category": "design",
+  "pick": false,
+  "why": "Casual service-design meet-and-greet ($5).",
+  "price": "",
+  "sources": [
+   "Meetup"
+  ]
+ },
+ {
+  "key": "eventbrite:1998558706892",
+  "date": "2026-11-18",
+  "time": "10:00 AM",
+  "name": "AI GOVERNANCE IN PRACTICE",
+  "venue": "Islington Golf Club, 45 Riverbank Drive, Toronto M9A 5B8",
+  "url": "https://www.eventbrite.ca/e/ai-governance-in-practice-tickets-1998558706892",
+  "x_handles": [],
+  "category": "AI",
+  "pick": false,
+  "why": "Paid workshop on runtime governance of agentic AI.",
+  "price": "$125",
+  "sources": [
+   "Eventbrite"
+  ]
+ },
+ {
+  "key": "https://luma.com/clickh-1p8m",
+  "date": "2026-11-18",
+  "time": "1:00 PM",
+  "name": "Hands-on training: Agent Observability with Langfuse in Toronto",
+  "venue": "240 Richmond St W, Toronto, ON M5V 1V6 (Wellington Place)",
+  "url": "https://luma.com/clickh-1p8m",
+  "x_handles": [
+   "clickhousedb"
+  ],
+  "category": "AI",
+  "pick": false,
+  "why": "Hands-on Langfuse training on agent observability; best for engineers.",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "https://luma.com/clickh-4120",
+  "date": "2026-11-18",
+  "time": "5:00 PM",
+  "name": "Toronto Data Engineering Meetup with ClickHouse",
+  "venue": "317 Adelaide St W, Toronto, ON M5V 1P8 (Old Toronto)",
+  "url": "https://luma.com/clickh-4120",
+  "x_handles": [
+   "ClickhouseDB"
+  ],
+  "category": "dev",
+  "pick": true,
+  "why": "ClickHouse x Rootly data engineering meetup; talks TBD.",
+  "price": "",
+  "sources": [
+   "Luma",
+   "Meetup"
+  ]
+ },
+ {
+  "key": "https://luma.com/9alat4ne",
+  "date": "2026-11-18",
+  "time": "5:30 PM",
+  "name": "Capital Connect Pitch Night",
+  "venue": "325 Front St W, Toronto, ON M5V 2Y1 (Old Toronto)",
+  "url": "https://luma.com/9alat4ne",
+  "x_handles": [
+   "gsaventures"
+  ],
+  "category": "VC",
+  "pick": false,
+  "why": "GSA Ventures pitch night for vetted Ontario pre-seed startups.",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "https://www.meetup.com/creative-code-toronto/events/316976743",
+  "date": "2026-11-18",
+  "time": "6:00 PM",
+  "name": "Responsive Installations: Using Sensors to Control the Visuals",
+  "venue": "InterAccess (per listing; no address on Meetup)",
+  "url": "https://www.meetup.com/creative-code-toronto/events/316976743/",
+  "x_handles": [],
+  "category": "design",
+  "pick": false,
+  "why": "Sensor-driven interactive installation workshop; register and pay via InterAccess.",
+  "price": "",
+  "sources": [
+   "Meetup"
+  ]
+ },
+ {
+  "key": "https://www.meetup.com/build-with-ai-mississauga/events/316065005",
+  "date": "2026-11-18",
+  "time": "6:00 PM",
+  "name": "AI Clinic 03: Kill the task you hate most",
+  "venue": "30 Topflight Dr, Mississauga",
+  "url": "https://www.meetup.com/build-with-ai-mississauga/events/316065005/",
+  "x_handles": [],
+  "category": "AI",
+  "pick": false,
+  "why": "Small AI 'clinic' where attendees scope automating a hated task.",
+  "price": "",
+  "sources": [
+   "Meetup"
+  ]
+ },
+ {
+  "key": "https://www.meetup.com/do-stuff-and-make-friends-in-toronto/events/315836074",
+  "date": "2026-11-18",
+  "time": "6:30 PM",
+  "name": "Toronto Technology Networking Event",
+  "venue": "Gatherings Restobar, 49 St Clair Ave W, Yonge & St Clair",
+  "url": "https://www.meetup.com/do-stuff-and-make-friends-in-toronto/events/315836074/",
+  "x_handles": [],
+  "category": "other-tech",
+  "pick": false,
+  "why": "Generic multi-group tech networking mixer; paid Eventbrite ticket.",
+  "price": "",
+  "sources": [
+   "Meetup"
+  ]
+ },
+ {
+  "key": "https://events.humanitix.com/canadian-disability-tech-summit-2026",
+  "date": "2026-11-18",
+  "time": "7:30 AM",
+  "name": "Canadian Disability Tech Summit 2026",
+  "venue": "Automotive Building, Exhibition Place",
+  "url": "https://events.humanitix.com/canadian-disability-tech-summit-2026",
+  "x_handles": [],
+  "category": "startups",
+  "pick": true,
+  "why": "400+ founders/investors; John Ruffolo (Maverix) among speakers; $75.",
+  "price": "",
+  "sources": [
+   "eventstoronto.ca"
+  ]
+ },
+ {
+  "key": "https://www.meetup.com/queertech-toronto/events/315378030",
+  "date": "2026-11-18",
+  "time": "8:00 AM",
+  "name": "QT Qonference 2026",
+  "venue": "Evergreen Brick Works, 550 Bayview Ave, Don Valley",
+  "url": "https://www.meetup.com/queertech-toronto/events/315378030/",
+  "x_handles": [
+   "queertechhq"
+  ],
+  "category": "AI",
+  "pick": true,
+  "why": "Two-day QT Qonference on 'Who Gets to Trust AI?' with leaders, founders and investors; tickets via Brella.",
+  "price": "",
+  "sources": [
+   "Meetup"
+  ]
+ },
+ {
+  "key": "https://luma.com/MaRS-FOAK-DD",
+  "date": "2026-11-18",
+  "time": "9:00 AM",
+  "name": "MaRS FOAK Lab Demo Day",
+  "venue": "Location shared on registration",
+  "url": "https://luma.com/MaRS-FOAK-DD",
+  "x_handles": [],
+  "category": "other-tech",
+  "pick": false,
+  "why": "Demo day for MaRS cleantech FOAK Lab ventures (day 2 of MaRS Climate Impact).",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "eventbrite:2003453037968",
+  "date": "2026-11-18",
+  "time": "9:00 AM",
+  "name": "Preparing for the Quantum Era - What Every Executive & Board Should Know",
+  "venue": "302 Bay Street, Toronto M5H 0B6",
+  "url": "https://www.eventbrite.ca/e/preparing-for-the-quantum-era-what-every-executive-board-should-know-tickets-2003453037968",
+  "x_handles": [],
+  "category": "other-tech",
+  "pick": false,
+  "why": "10-seat executive briefing on quantum readiness.",
+  "price": "$84.75",
+  "sources": [
+   "Eventbrite"
+  ]
+ },
+ {
+  "key": "https://luma.com/rlzbv42h",
+  "date": "2026-11-19",
+  "time": "3:00 PM",
+  "name": "Brilliant Catalyst Annual Pitch Competition",
+  "venue": "Energy Research Centre (ERC), 30 Founders Dr, Oshawa, ON L1G 0C8",
+  "url": "https://luma.com/rlzbv42h",
+  "x_handles": [
+   "OT_Brilliant"
+  ],
+  "category": "startups",
+  "pick": false,
+  "why": "Ontario Tech Brilliant Catalyst pitch competition in Oshawa.",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "https://brainstation.io/marketing-summit/toronto",
+  "date": "2026-11-19",
+  "time": "3:00 PM",
+  "name": "AI Marketing Summit Toronto",
+  "venue": "BrainStation, 482 Front St W (The Well)",
+  "url": "https://brainstation.io/marketing-summit/toronto",
+  "x_handles": [
+   "BrainStation"
+  ],
+  "category": "AI",
+  "pick": true,
+  "why": "Senior marketing leaders on AI (Google Canada, ElevenLabs, Scotiabank); $325, ticket request.",
+  "price": "",
+  "sources": [
+   "BrainStation"
+  ]
+ },
+ {
+  "key": "https://luma.com/8c72hx1q",
+  "date": "2026-11-19",
+  "time": "4:00 PM",
+  "name": "Builders & Bubble Tea 🇨🇦",
+  "venue": "Address shared after registration, Old Toronto, Toronto",
+  "url": "https://luma.com/8c72hx1q",
+  "x_handles": [
+   "chanxlucas"
+  ],
+  "category": "startups",
+  "pick": false,
+  "why": "MLVC builders hangout; no description posted.",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "https://luma.com/ko4ppwbz",
+  "date": "2026-11-19",
+  "time": "5:00 PM",
+  "name": "Demo Day: Fundraising, Investing & Building Community",
+  "venue": "RYSE Toronto HQ, Old Toronto, Toronto",
+  "url": "https://luma.com/ko4ppwbz",
+  "x_handles": [],
+  "category": "startups",
+  "pick": false,
+  "why": "RYSE demo night and fundraising panel.",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "https://luma.com/k4ofil9o",
+  "date": "2026-11-19",
+  "time": "5:00 PM",
+  "name": "Tokenize North — Toronto Edition",
+  "venue": "Address shared after registration, Fashion District, Toronto",
+  "url": "https://luma.com/k4ofil9o",
+  "x_handles": [
+   "FuturFlo"
+  ],
+  "category": "other-tech",
+  "pick": false,
+  "why": "Invitation-style evening on tokenized finance, from Blockchain North.",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "https://luma.com/yiaepxd6",
+  "date": "2026-11-19",
+  "time": "5:30 PM",
+  "name": "GTM North x WITS Vol. 3: Creating Your Brand",
+  "venue": "100 Queens Quay East, 100 Queens Quay E, Toronto, ON M5E 1Y3 (South Core)",
+  "url": "https://luma.com/yiaepxd6",
+  "x_handles": [
+   "JonTjoaandi"
+  ],
+  "category": "product",
+  "pick": true,
+  "why": "GTM North x WITS session on personal branding and pitch practice, presented with Stanley ($30).",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "https://luma.com/2qd3043s",
+  "date": "2026-11-19",
+  "time": "6:00 PM",
+  "name": "Speculative Decoding in Production Panel (with Baseten, Rootly and Wealthsimple)",
+  "venue": "Address shared after registration, Old Toronto, Toronto",
+  "url": "https://luma.com/2qd3043s",
+  "x_handles": [
+   "baseten",
+   "rootlyhq"
+  ],
+  "category": "AI",
+  "pick": true,
+  "why": "Panel on speculative decoding in production with engineers from Baseten, Rootly and Wealthsimple.",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "https://luma.com/otlidq4h",
+  "date": "2026-11-19",
+  "time": "6:00 PM",
+  "name": "Rootly AI x Anthropic Executive Dinner (Toronto)",
+  "venue": "Quetzal, 419 College St, Toronto, ON M5T 1T1 (Kensington Market)",
+  "url": "https://luma.com/otlidq4h",
+  "x_handles": [
+   "rootlyhq"
+  ],
+  "category": "AI",
+  "pick": false,
+  "why": "Repeat of the Rootly executive dinner, at Quetzal.",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "https://luma.com/g8uvuznc",
+  "date": "2026-11-19",
+  "time": "6:00 PM",
+  "name": "Startup Connect: PROPTECH&AI AI•Innovation•Founders",
+  "venue": "MaRS Discovery District, 101 College St, Toronto, ON M5G 0A3 (Discovery District)",
+  "url": "https://luma.com/g8uvuznc",
+  "x_handles": [
+   "Olyagorbunova"
+  ],
+  "category": "AI",
+  "pick": false,
+  "why": "Proptech and AI networking at MaRS ($40).",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "eventbrite:2003693168204",
+  "date": "2026-11-19",
+  "time": "6:30 PM",
+  "name": "Toronto 7 -Figure SaaS Founders Dinner | Founder Intensive",
+  "venue": "Fairmont Royal York, 100 Front Street West, Toronto M5J 1E3",
+  "url": "https://www.eventbrite.ca/e/toronto-7-figure-saas-founders-dinner-founder-intensive-tickets-2003693168204",
+  "x_handles": [],
+  "category": "startups",
+  "pick": false,
+  "why": "Paid 12-person SaaS founders dinner; unfamiliar organizer.",
+  "price": "$215.44",
+  "sources": [
+   "Eventbrite"
+  ]
+ },
+ {
+  "key": "eventbrite:2001030670602",
+  "date": "2026-11-19",
+  "time": "7:00 AM",
+  "name": "BFUTR 2026 Global Tech Summit",
+  "venue": "The International Centre, 6900 Airport Rd, Mississauga",
+  "url": "https://www.eventbrite.ca/e/bfutr-2026-global-tech-summit-tickets-2001030670602",
+  "x_handles": [
+   "joinobsidi"
+  ],
+  "category": "other-tech",
+  "pick": true,
+  "why": "OBSIDI's BFUTR, a large two-day tech and career summit (claims 20,000+ attendees, 100+ speakers).",
+  "price": "Free",
+  "sources": [
+   "Eventbrite"
+  ]
+ },
+ {
+  "key": "https://luma.com/iji15yjb",
+  "date": "2026-11-19",
+  "time": "7:00 PM",
+  "name": "Startup Pitch & Networking in Toronto",
+  "venue": "229 Niagara St, Toronto, ON M6J 2L5 (West Queen West)",
+  "url": "https://luma.com/iji15yjb",
+  "x_handles": [],
+  "category": "startups",
+  "pick": false,
+  "why": "Paid Startup Valley pitch night.",
+  "price": "",
+  "sources": [
+   "Luma",
+   "Meetup"
+  ]
+ },
+ {
+  "key": "eventbrite:1989851880540",
+  "date": "2026-11-19",
+  "time": "9:00 AM",
+  "name": "Music Tech 20/20 Summit",
+  "venue": "Chestnut Conference Centre, 89 Chestnut Street, Toronto M5G 1R1",
+  "url": "https://www.eventbrite.ca/e/music-tech-2020-summit-tickets-1989851880540",
+  "x_handles": [],
+  "category": "other-tech",
+  "pick": false,
+  "why": "DDEX music-technology conference.",
+  "price": "$588.73–$823.49",
+  "sources": [
+   "Eventbrite"
+  ]
+ },
+ {
+  "key": "https://luma.com/TorontoTechCoffee2026Nov21",
+  "date": "2026-11-21",
+  "time": "9:00 AM",
+  "name": "Toronto Tech Community Coffee Meetup",
+  "venue": "10 DEAN | Waverley, The Lobby Of The Waverley, Apartment Bldg, 484 Spadina Ave., Toronto, ON M5S 0E4 (Downtown Toronto)",
+  "url": "https://luma.com/TorontoTechCoffee2026Nov21",
+  "x_handles": [],
+  "category": "other-tech",
+  "pick": false,
+  "why": "Monthly Saturday coffee meetup for the tech community.",
+  "price": "",
+  "sources": [
+   "Luma",
+   "Eventbrite"
+  ]
+ },
+ {
+  "key": "https://buildersundays.ca/products/toronto#2026-11-22",
+  "date": "2026-11-22",
+  "time": "12:00 PM",
+  "name": "Builder Sundays at Shopify",
+  "venue": "Shopify Toronto, 620 King St W (10th floor, enter off Waterloo Terrace)",
+  "url": "https://buildersundays.ca/products/toronto",
+  "x_handles": [
+   "Shopify"
+  ],
+  "category": "startups",
+  "pick": true,
+  "why": "12-5 PM co-working for builders at Shopify. Spots release Wednesdays at 12 PM ET for the following Sunday. Also Dec 13, then back Jan 10; off Nov 29 (BFCM).",
+  "price": "",
+  "sources": [
+   "buildersundays.ca"
+  ]
+ },
+ {
+  "key": "eventbrite:2001670935652",
+  "date": "2026-11-23",
+  "time": "5:00 PM",
+  "name": "TiE Spirit Awards Night 2026",
+  "venue": "RBC WaterPark Place, 88 Queens Quay West, Toronto M5J 0B6",
+  "url": "https://www.eventbrite.ca/e/tie-spirit-awards-night-2026-tickets-2001670935652",
+  "x_handles": [],
+  "category": "startups",
+  "pick": false,
+  "why": "TiE Toronto annual awards night; established founder network.",
+  "price": "$49.99–$79.99",
+  "sources": [
+   "Eventbrite"
+  ]
+ },
+ {
+  "key": "https://luma.com/olqyaeel",
+  "date": "2026-11-24",
+  "time": "12:00 PM",
+  "name": "COIE Demo Day Fall2026: Pitch to Win & Showcase -General Audience ONLY",
+  "venue": "Centennial College Event Centre, 937 Progress Ave, Scarborough, ON M1G 3T8 (Woburn North)",
+  "url": "https://luma.com/olqyaeel",
+  "x_handles": [
+   "coiecentennial"
+  ],
+  "category": "startups",
+  "pick": false,
+  "why": "Centennial College COIE student startup demo day.",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "https://luma.com/kssxk13h",
+  "date": "2026-11-24",
+  "time": "6:00 PM",
+  "name": "2027 Planning: The Bet You're Making for Next Year - 5 to 9 Society",
+  "venue": "Henry's, Trinity-Bellwoods, Toronto",
+  "url": "https://luma.com/kssxk13h",
+  "x_handles": [
+   "christinesong"
+  ],
+  "category": "startups",
+  "pick": false,
+  "why": "5 to 9 Society dinner on 2027 planning ($150).",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "https://luma.com/8oynf7g7",
+  "date": "2026-11-24",
+  "time": "7:00 PM",
+  "name": "Startup Pitch Events Toronto: 5 Founders on Stage",
+  "venue": "Blood Brothers Brewing, 165 Geary Ave, Toronto, ON M6H 2B8 (Davenport)",
+  "url": "https://luma.com/8oynf7g7",
+  "x_handles": [],
+  "category": "startups",
+  "pick": false,
+  "why": "Five-founder pitch night at a brewery.",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "https://luma.com/blockchainweekto",
+  "date": "2026-11-24",
+  "time": "9:00 AM",
+  "name": "Toronto Blockchain Week 2026",
+  "venue": "Address shared after registration, Old Toronto, Toronto",
+  "url": "https://luma.com/blockchainweekto",
+  "x_handles": [
+   "web3to"
+  ],
+  "category": "other-tech",
+  "pick": false,
+  "why": "Two-day web3 and digital assets conference (Nov 24-25; day 2 is Build The Future Canada); $565.",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "https://luma.com/dn5ab9h7",
+  "date": "2026-11-25",
+  "time": "5:30 PM",
+  "name": "November 2026 TrueNorthCTO @ Index Exchange (Toronto)",
+  "venue": "Index Exchange, Downtown Toronto, Toronto",
+  "url": "https://luma.com/dn5ab9h7",
+  "x_handles": [],
+  "category": "dev",
+  "pick": true,
+  "why": "TrueNorthCTO technical-leadership talks at Index Exchange, including an AI-native operating system case study ($47.50).",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "eventbrite:2000524112473",
+  "date": "2026-11-25",
+  "time": "5:30 PM",
+  "name": "AAGEF Entrepreneur Challenge 2026",
+  "venue": "Centre d'excellence, 2275 Bayview Ave, North York",
+  "url": "https://www.eventbrite.ca/e/aagef-entrepreneur-challenge-2026-tickets-2000524112473",
+  "x_handles": [],
+  "category": "startups",
+  "pick": false,
+  "why": "AAGEF pitch night: 3 entrepreneurs pitch for Entrepreneur of the Year.",
+  "price": "$35–$500",
+  "sources": [
+   "Eventbrite"
+  ]
+ },
+ {
+  "key": "https://luma.com/bdyg1wti",
+  "date": "2026-11-25",
+  "time": "6:00 PM",
+  "name": "Open Data Demo Night",
+  "venue": "Metro Hall, 55 John St, Toronto, ON M5V 0C4 (Wellington Place)",
+  "url": "https://luma.com/bdyg1wti",
+  "x_handles": [
+   "Open_TO"
+  ],
+  "category": "dev",
+  "pick": false,
+  "why": "City of Toronto open data project demo night.",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "https://luma.com/sn9f49v6",
+  "date": "2026-11-25",
+  "time": "6:30 PM",
+  "name": "We Need to Talk About AI",
+  "venue": "Centre for Social Innovation (CSI), 192 Spadina Ave., Toronto, ON M5T 2C2 (Alexandra Park)",
+  "url": "https://luma.com/sn9f49v6",
+  "x_handles": [],
+  "category": "AI",
+  "pick": false,
+  "why": "Open-format AI salon at CSI ($22.60).",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "eventbrite:2001009379921",
+  "date": "2026-11-26",
+  "time": "5:30 PM",
+  "name": "What Your Machines Should Do: In Discussion With Author Stef Hutka",
+  "venue": "OCAD University, 115 McCaul Street, Rosalie Sharp Pavilion, Toronto M5T 1G1",
+  "url": "https://www.eventbrite.ca/e/what-your-machines-should-do-in-discussion-with-author-stef-hutka-tickets-2001009379921",
+  "x_handles": [
+   "designmeets"
+  ],
+  "category": "product",
+  "pick": false,
+  "why": "DesignMeets launch of Stefanie Hutka's book What Your Machines Should Do.",
+  "price": "$11.98",
+  "sources": [
+   "Eventbrite"
+  ]
+ },
+ {
+  "key": "eventbrite:1998939527938",
+  "date": "2026-11-27",
+  "time": "10:30 AM",
+  "name": "LIMITLESS AI",
+  "venue": "IBM Office, 16 York Street, Toronto M5J 0E6",
+  "url": "https://www.eventbrite.ca/e/limitless-ai-tickets-1998939527938",
+  "x_handles": [],
+  "category": "AI",
+  "pick": false,
+  "why": "Paid applied-AI workshop for entrepreneurs at IBM's York St office.",
+  "price": "$179",
+  "sources": [
+   "Eventbrite"
+  ]
+ },
+ {
+  "key": "https://luma.com/v1hdm2em",
+  "date": "2026-11-27",
+  "time": "9:00 AM",
+  "name": "Ecosystem Connects: AI and Beyond - Kick-off to the TPL AI Summit",
+  "venue": "Address shared after registration, Yorkville, Toronto",
+  "url": "https://luma.com/v1hdm2em",
+  "x_handles": [],
+  "category": "AI",
+  "pick": true,
+  "why": "City of Toronto half-day forum on AI and quantum with government, industry, academia and startups; kicks off the TPL AI Summit.",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "https://luma.com/0ut2barb",
+  "date": "2026-11-30",
+  "time": "6:00 PM",
+  "name": "The Hard Half - 5 to 9 Society",
+  "venue": "Deauville Club, Wellington Place, Toronto",
+  "url": "https://luma.com/0ut2barb",
+  "x_handles": [
+   "christinesong"
+  ],
+  "category": "startups",
+  "pick": false,
+  "why": "5 to 9 Society fireside; guest TBA ($150).",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "eventbrite:2003778762218",
+  "date": "2026-12-02",
+  "time": "4:00 PM",
+  "name": "The Lancet Series on the Digital Determinants of Health",
+  "venue": "Women's College Hospital, 76 Grenville Street, Conference Centre Auditorium, 2nd Floor, Toronto M5S 1B2",
+  "url": "https://www.eventbrite.ca/e/the-lancet-series-on-the-digital-determinants-of-health-tickets-2003778762218",
+  "x_handles": [
+   "utjcb"
+  ],
+  "category": "other-tech",
+  "pick": false,
+  "why": "U of T bioethics session on the Lancet series on digital determinants of health.",
+  "price": "Free",
+  "sources": [
+   "Eventbrite"
+  ]
+ },
+ {
+  "key": "https://luma.com/pro5fo5a",
+  "date": "2026-12-02",
+  "time": "6:00 PM",
+  "name": "Healthtech Social by Scalpels & Spreadsheets: She Speaks Health",
+  "venue": "BrainStation, 482 Front St W 2nd floor, Toronto, ON M5V 0W1 (Downtown Toronto)",
+  "url": "https://luma.com/pro5fo5a",
+  "x_handles": [
+   "_vijesh"
+  ],
+  "category": "other-tech",
+  "pick": false,
+  "why": "Healthtech panel of six leaders at BrainStation.",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "https://luma.com/6wd7mggt",
+  "date": "2026-12-04",
+  "time": "10:00 AM",
+  "name": "AI Builder Café: Build Your AI Revenue & Operations Team",
+  "venue": "901 King St W, Toronto, ON M5V 3H5 (Old Toronto)",
+  "url": "https://luma.com/6wd7mggt",
+  "x_handles": [
+   "torontostarts"
+  ],
+  "category": "AI",
+  "pick": false,
+  "why": "TorontoStarts hands-on session on building AI agents for revenue and operations.",
+  "price": "",
+  "sources": [
+   "Luma"
+  ]
+ },
+ {
+  "key": "eventbrite:1999269801796",
+  "date": "2026-12-05",
+  "time": "11:00 AM",
+  "name": "GenTO: Toronto AI Film Festival",
+  "venue": "Innis Town Hall, 2 Sussex Avenue, Toronto M5S 1J5",
+  "url": "https://www.eventbrite.ca/e/gento-toronto-ai-film-festival-tickets-1999269801796",
+  "x_handles": [],
+  "category": "AI",
+  "pick": true,
+  "why": "Full-day AI film festival with screenings and panels; good for AI-creative and marketing people.",
+  "price": "$31.59–$55.66",
+  "sources": [
+   "Eventbrite"
+  ]
+ },
+ {
+  "key": "https://buildersundays.ca/products/toronto#2026-12-06",
+  "date": "2026-12-06",
+  "time": "12:00 PM",
+  "name": "Builder Sundays at Shopify",
+  "venue": "Shopify Toronto, 620 King St W (10th floor, enter off Waterloo Terrace)",
+  "url": "https://buildersundays.ca/products/toronto",
+  "x_handles": [
+   "Shopify"
+  ],
+  "category": "startups",
+  "pick": true,
+  "why": "12-5 PM co-working for builders at Shopify. Spots release Wednesdays at 12 PM ET for the following Sunday. Also Dec 13, then back Jan 10; off Nov 29 (BFCM).",
+  "price": "",
+  "sources": [
+   "buildersundays.ca"
+  ]
+ }
+]
