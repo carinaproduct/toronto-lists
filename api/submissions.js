@@ -3,7 +3,9 @@ import { get, list } from '@vercel/blob';
 import { isIsoDate } from '../lib/submission.js';
 
 // GET /api/submissions?from=YYYY-MM-DD&to=YYYY-MM-DD
-// Admin-only: requires `Authorization: Bearer <ADMIN_TOKEN>`.
+// Requires `Authorization: Bearer <token>`:
+//   ADMIN_TOKEN returns full submissions, including the submitter's contact and feedback.
+//   BOT_TOKEN returns only the public event fields, for a bot drafting the weekly thread.
 // Returns the submissions whose event date falls in [from, to], sorted by date.
 export default async function handler(req, res) {
   if (req.method !== 'GET') {
@@ -12,8 +14,9 @@ export default async function handler(req, res) {
   }
   res.setHeader('Cache-Control', 'no-store');
 
-  if (!isAuthorized(req.headers.authorization)) {
-    return res.status(401).json({ error: 'Wrong or missing admin token.' });
+  const role = roleFor(req.headers.authorization);
+  if (!role) {
+    return res.status(401).json({ error: 'Wrong or missing token.' });
   }
 
   const { from, to } = req.query;
@@ -45,13 +48,28 @@ export default async function handler(req, res) {
     .filter(Boolean)
     .sort((a, b) => a.eventDate.localeCompare(b.eventDate) || a.submittedAt.localeCompare(b.submittedAt));
 
+  if (role === 'bot') {
+    return res.status(200).json({ submissions: submissions.map(toPublic) });
+  }
   return res.status(200).json({ submissions });
 }
 
-function isAuthorized(header) {
-  const expected = process.env.ADMIN_TOKEN;
-  if (!expected || !header?.startsWith('Bearer ')) return false;
-  const given = Buffer.from(header.slice('Bearer '.length));
-  const want = Buffer.from(expected);
-  return given.length === want.length && timingSafeEqual(given, want);
+// Only what goes into a public post: never the submitter's contact or feedback.
+function toPublic({ id, eventDate, eventName, registrationLink, handles }) {
+  return { id, eventDate, eventName, registrationLink, handles };
+}
+
+function roleFor(header) {
+  if (!header?.startsWith('Bearer ')) return null;
+  const given = header.slice('Bearer '.length);
+  if (matches(given, process.env.ADMIN_TOKEN)) return 'admin';
+  if (matches(given, process.env.BOT_TOKEN)) return 'bot';
+  return null;
+}
+
+function matches(given, expected) {
+  if (!expected) return false;
+  const a = Buffer.from(given);
+  const b = Buffer.from(expected);
+  return a.length === b.length && timingSafeEqual(a, b);
 }
