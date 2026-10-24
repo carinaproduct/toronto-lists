@@ -25,8 +25,9 @@ Static pages in `public/`, two Vercel functions in `api/`:
 
 1. Import this repo as a Vercel project (no framework, no build command).
 2. In the project, go to **Storage → Create → Blob**, choose **private** access,
-   and connect it. This sets `BLOB_STORE_ID`, and the functions authenticate
-   with the project's Vercel OIDC token (no read-write token needed).
+   and connect it. Either env var the connection adds works: `BLOB_STORE_ID`
+   (authenticates with the project's Vercel OIDC token) or
+   `BLOB_READ_WRITE_TOKEN`.
 3. Add an `ADMIN_TOKEN` environment variable set to a long random string
    (for example the output of `openssl rand -hex 24`).
 4. Redeploy, then put the site URL in your X bio or pinned post.
